@@ -1,743 +1,743 @@
-,job_title_sim,Job Location,Grouped_Rating,Avg_Salary,Sector,Type of ownership,Revenue,Python,excel,sql,aws,group_loc,group_title,group_sector
-0,data scientist,NM,4.0,72.0,Aerospace & Defense,Company - Private,$50 to $100 million (USD),1,1,0,0,Rest,data scientist,Rest
-1,data scientist,MD,3.5,87.5,Health Care,Other Organization,$2 to $5 billion (USD),1,0,0,0,Rest,data scientist,Health Care
-2,data scientist,FL,5.0,85.0,Business Services,Company - Private,$100 to $500 million (USD),1,1,1,0,Rest,data scientist,Business Services
-3,data scientist,WA,4.0,76.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),1,0,0,0,Rest,data scientist,Rest
-4,data scientist,NY,3.0,114.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,0,NY,data scientist,Business Services
-5,data scientist,TX,3.5,95.0,Real Estate,Company - Public,$1 to $2 billion (USD),1,1,1,1,Rest,data scientist,Rest
-6,data scientist,MD,4.5,73.5,Finance,Company - Private,Unknown / Non-Applicable,0,1,0,0,Rest,data scientist,Rest
-7,data scientist,CA,4.0,114.0,Business Services,Company - Private,$25 to $50 million (USD),1,1,1,1,CA,data scientist,Business Services
-8,other scientist,NY,3.5,61.0,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0,NY,Rest,Health Care
-9,data scientist,NY,5.0,140.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,0,0,NY,data scientist,Information Technology
-10,data scientist,CA,3.5,163.5,Retail,Company - Private,$1 to $2 billion (USD),1,0,0,0,CA,data scientist,Rest
-11,data scientist,VA,4.5,85.0,Business Services,Company - Public,$1 to $2 billion (USD),0,0,1,0,VA,data scientist,Business Services
-12,data scientist,TX,3.5,139.0,Retail,Company - Public,$10+ billion (USD),0,0,1,0,Rest,data scientist,Rest
-13,analyst,WA,4.5,65.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1,Rest,Rest,Business Services
-14,data scientist,MA,4.0,113.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,1,0,MA,data scientist,Biotech & Pharmaceuticals
-15,data engineer,NJ,4.0,146.0,Media,Subsidiary or Business Segment,Unknown / Non-Applicable,0,1,0,0,Rest,data engineer,Rest
-16,other scientist,MA,4.0,102.0,Biotech & Pharmaceuticals,Company - Public,$1 to $5 million (USD),0,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-17,data scientist,CA,4.5,153.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,1,CA,data scientist,Information Technology
-18,data scientist,CA,4.5,142.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,1,0,CA,data scientist,Information Technology
-19,data scientist,CO,4.0,87.5,Insurance,Nonprofit Organization,$500 million to $1 billion (USD),1,1,1,0,Rest,data scientist,Insurance
-20,data scientist,WA,3.5,105.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0,Rest,data scientist,Information Technology
-21,data scientist,TX,4.0,96.0,Insurance,Company - Private,Unknown / Non-Applicable,0,1,0,0,Rest,data scientist,Insurance
-22,data scientist,IL,4.0,112.5,Transportation & Logistics,Company - Private,Unknown / Non-Applicable,1,1,1,1,IL,data scientist,Rest
-23,data scientist,KY,4.5,84.0,Transportation & Logistics,Nonprofit Organization,$10 to $25 million (USD),1,1,1,0,Rest,data scientist,Rest
-24,data scientist,VA,4.0,143.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,0,1,VA,data scientist,Information Technology
-25,data scientist,MA,4.0,86.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,1,0,1,MA,data scientist,Biotech & Pharmaceuticals
-26,data scientist,OR,3.5,99.5,Finance,Company - Private,$100 to $500 million (USD),1,1,1,1,Rest,data scientist,Rest
-27,analyst,MA,4.0,47.5,Insurance,Company - Public,$5 to $10 billion (USD),0,1,0,0,MA,Rest,Insurance
-28,data scientist,CT,4.0,84.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,1,Rest,data scientist,Biotech & Pharmaceuticals
-29,data scientist,FL,5.0,85.0,Business Services,Company - Private,$100 to $500 million (USD),1,1,1,0,Rest,data scientist,Business Services
-30,data scientist,WA,4.0,76.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),1,0,0,0,Rest,data scientist,Rest
-31,data scientist,MI,4.0,96.0,Real Estate,Company - Private,$500 million to $1 billion (USD),1,0,1,0,Rest,data scientist,Rest
-32,data scientist,MA,4.0,114.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,0,0,MA,data scientist,Biotech & Pharmaceuticals
-33,data scientist,CA,4.0,121.0,Telecommunications,Company - Public,$2 to $5 billion (USD),1,1,1,0,CA,data scientist,Rest
-34,data scientist,MA,5.0,112.5,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,1,0,0,MA,data scientist,Biotech & Pharmaceuticals
-35,analyst,CA,4.5,106.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0,CA,Rest,Information Technology
-36,data scientist,CA,3.5,107.0,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,0,1,CA,data scientist,Information Technology
-37,data scientist,MA,5.0,110.0,Aerospace & Defense,Company - Private,$100 to $500 million (USD),1,1,1,0,MA,data scientist,Rest
-38,data scientist,CA,3.5,147.5,Biotech & Pharmaceuticals,Company - Public,$1 to $2 billion (USD),1,1,0,0,CA,data scientist,Biotech & Pharmaceuticals
-39,data engineer,NY,3.5,106.0,Insurance,Company - Private,$100 to $500 million (USD),1,1,1,0,NY,data engineer,Insurance
-40,analyst,CA,4.5,88.0,Information Technology,Company - Private,$50 to $100 million (USD),1,1,1,1,CA,Rest,Information Technology
-41,data engineer,MA,4.0,98.5,-1,Company - Private,Less than $1 million (USD),0,1,1,0,MA,data engineer,Rest
-42,data scientist,CA,4.5,142.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,0,0,CA,data scientist,Information Technology
-43,other scientist,NJ,3.5,82.5,Manufacturing,Company - Public,$2 to $5 billion (USD),0,0,0,1,Rest,Rest,Rest
-44,data scientist,IL,4.5,130.0,Real Estate,Company - Public,$2 to $5 billion (USD),1,1,1,0,IL,data scientist,Rest
-45,data scientist,DC,5.0,155.0,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,0,1,Rest,data scientist,Information Technology
-46,data scientist,WA,4.0,184.5,Information Technology,Company - Public,$10+ billion (USD),1,1,1,0,Rest,data scientist,Information Technology
-47,analyst,CO,3.5,29.5,Information Technology,Company - Private,$2 to $5 billion (USD),0,1,0,0,Rest,Rest,Information Technology
-48,other scientist,OH,5.0,86.5,Aerospace & Defense,Company - Private,$100 to $500 million (USD),0,0,0,0,Rest,Rest,Rest
-49,data scientist,IL,4.0,81.0,Manufacturing,Company - Public,$10+ billion (USD),0,0,0,0,IL,data scientist,Rest
-50,data scientist,FL,4.0,91.0,Business Services,Subsidiary or Business Segment,Unknown / Non-Applicable,1,1,1,0,Rest,data scientist,Business Services
-51,data scientist,MA,3.5,114.5,Insurance,Company - Private,$10+ billion (USD),1,0,0,0,MA,data scientist,Insurance
-52,data scientist,AL,5.0,68.0,Aerospace & Defense,Company - Private,$100 to $500 million (USD),1,1,0,0,Rest,data scientist,Rest
-53,data scientist,NY,4.0,115.0,Insurance,Company - Public,$10+ billion (USD),1,1,1,0,NY,data scientist,Insurance
-54,data scientist,CA,4.0,109.5,Aerospace & Defense,Company - Public,$10+ billion (USD),0,1,1,0,CA,data scientist,Rest
-55,data scientist,NM,3.5,75.5,Biotech & Pharmaceuticals,Company - Public,$1 to $2 billion (USD),1,1,0,0,Rest,data scientist,Biotech & Pharmaceuticals
-56,data scientist,CA,4.5,154.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,0,CA,data scientist,Information Technology
-57,data scientist,MO,5.0,143.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0,Rest,data scientist,Information Technology
-58,data scientist,MD,4.5,73.5,Finance,Company - Private,Unknown / Non-Applicable,0,1,0,0,Rest,data scientist,Rest
-59,data scientist,TX,3.5,95.0,Real Estate,Company - Public,$1 to $2 billion (USD),1,1,1,1,Rest,data scientist,Rest
-60,data scientist,OH,4.5,107.0,Mining & Metals,Subsidiary or Business Segment,Unknown / Non-Applicable,1,0,1,1,Rest,data scientist,Rest
-61,data scientist,NY,4.5,115.0,Business Services,Company - Private,$10 to $25 million (USD),1,0,1,1,NY,data scientist,Business Services
-62,data scientist,CA,4.0,139.5,Finance,Company - Public,$50 to $100 million (USD),0,0,1,0,CA,data scientist,Rest
-63,data scientist,WA,4.0,67.0,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0,Rest,data scientist,Rest
-64,data scientist,PA,4.0,85.0,Retail,Company - Public,$5 to $10 billion (USD),1,0,1,0,Rest,data scientist,Rest
-65,data scientist,MA,3.0,118.0,Biotech & Pharmaceuticals,Company - Private,$1 to $5 million (USD),1,1,1,0,MA,data scientist,Biotech & Pharmaceuticals
-66,data scientist,GA,5.0,79.5,Information Technology,Company - Private,$25 to $50 million (USD),1,1,1,0,Rest,data scientist,Information Technology
-67,data scientist,MA,3.5,56.5,Business Services,Company - Public,$100 to $500 million (USD),1,0,1,0,MA,data scientist,Business Services
-68,data scientist,PA,3.5,128.5,Business Services,Company - Private,$5 to $10 million (USD),1,0,1,1,Rest,data scientist,Business Services
-69,other scientist,WA,4.0,97.5,Information Technology,Company - Public,Unknown / Non-Applicable,0,0,0,0,Rest,Rest,Information Technology
-70,data analitics,IN,4.5,66.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,0,Rest,Rest,Information Technology
-71,data scientist,IL,4.0,179.5,Business Services,Company - Public,$10+ billion (USD),1,1,1,0,IL,data scientist,Business Services
-72,other scientist,MO,3.0,76.0,Business Services,Subsidiary or Business Segment,$50 to $100 million (USD),0,1,0,0,Rest,Rest,Business Services
-73,data scientist,VA,4.0,112.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,0,VA,data scientist,Information Technology
-74,data scientist,PA,3.5,98.0,Mining & Metals,Company - Private,$1 to $2 billion (USD),1,0,0,0,Rest,data scientist,Rest
-75,data scientist,WA,4.0,128.0,Information Technology,Company - Public,Unknown / Non-Applicable,0,0,1,1,Rest,data scientist,Information Technology
-76,data scientist,CA,4.5,150.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,1,CA,data scientist,Information Technology
-77,other scientist,MA,2.0,87.5,Biotech & Pharmaceuticals,Company - Private,$10 to $25 million (USD),0,0,0,1,MA,Rest,Biotech & Pharmaceuticals
-78,data scientist,VA,3.5,110.0,Aerospace & Defense,Company - Private,$1 to $2 billion (USD),1,1,0,0,VA,data scientist,Rest
-79,data scientist,CA,4.5,113.5,Information Technology,Company - Private,$500 million to $1 billion (USD),1,1,0,0,CA,data scientist,Information Technology
-80,data scientist,CA,4.0,124.0,Health Care,Company - Private,$1 to $5 million (USD),1,0,1,0,CA,data scientist,Health Care
-81,analyst,PA,5.0,56.5,Business Services,Company - Private,$25 to $50 million (USD),0,1,0,0,Rest,Rest,Business Services
-82,data scientist,MD,4.5,130.0,Aerospace & Defense,Nonprofit Organization,$1 to $2 billion (USD),1,1,0,0,Rest,data scientist,Rest
-83,analyst,IL,4.5,77.5,Information Technology,Company - Private,$10 to $25 million (USD),0,1,1,0,IL,Rest,Information Technology
-84,data engineer,VA,4.0,87.0,Business Services,Company - Private,$50 to $100 million (USD),1,1,1,1,VA,data engineer,Business Services
-85,analyst,WA,4.5,53.5,Business Services,Company - Private,$100 to $500 million (USD),0,1,0,0,Rest,Rest,Business Services
-86,data scientist,TX,3.5,139.0,Retail,Company - Public,$10+ billion (USD),0,0,1,0,Rest,data scientist,Rest
-87,data scientist,CA,4.0,114.0,Business Services,Company - Private,$25 to $50 million (USD),1,1,1,1,CA,data scientist,Business Services
-88,data scientist,FL,4.5,85.5,Information Technology,Company - Private,$100 to $500 million (USD),1,1,1,0,Rest,data scientist,Information Technology
-89,na,AL,4.5,48.0,Information Technology,Company - Private,$25 to $50 million (USD),0,1,1,0,Rest,Rest,Information Technology
-90,analyst,LA,3.5,48.0,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,1,0,Rest,Rest,Information Technology
-91,other scientist,CA,3.5,174.0,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),0,1,0,0,CA,Rest,Biotech & Pharmaceuticals
-92,data scientist,GA,4.0,85.0,Finance,Company - Public,$1 to $2 billion (USD),1,0,1,0,Rest,data scientist,Rest
-93,data modeler,MD,5.0,106.5,Information Technology,Company - Private,$10 to $25 million (USD),0,0,0,0,Rest,Rest,Information Technology
-94,analyst,MD,4.5,72.5,Information Technology,Company - Private,$100 to $500 million (USD),0,1,0,0,Rest,Rest,Information Technology
-95,other scientist,MD,3.5,85.5,Information Technology,Subsidiary or Business Segment,$10+ billion (USD),0,0,0,0,Rest,Rest,Information Technology
-96,data scientist,VA,3.5,97.5,Government,Nonprofit Organization,$1 to $2 billion (USD),1,1,1,0,VA,data scientist,Rest
-97,data scientist,VA,4.0,99.0,Information Technology,Company - Private,$100 to $500 million (USD),1,1,0,0,VA,data scientist,Information Technology
-98,analyst,WI,3.5,56.5,Insurance,Company - Private,$2 to $5 billion (USD),0,1,1,0,Rest,Rest,Insurance
-99,data scientist,MD,4.5,133.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,0,Rest,data scientist,Information Technology
-100,data scientist,NY,4.0,121.0,Business Services,Company - Private,Unknown / Non-Applicable,1,0,0,0,NY,data scientist,Business Services
-101,data scientist,NY,5.0,85.5,Business Services,Company - Private,Unknown / Non-Applicable,1,0,1,0,NY,data scientist,Business Services
-102,data scientist,TX,4.5,87.5,Education,Subsidiary or Business Segment,Unknown / Non-Applicable,1,0,1,0,Rest,data scientist,Rest
-103,data scientist,DC,4.5,237.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,0,0,Rest,data scientist,Business Services
-104,data engineer,NC,4.0,95.5,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,0,Rest,data engineer,Information Technology
-105,data scientist,MI,3.5,104.5,Manufacturing,Company - Public,$5 to $10 billion (USD),1,1,1,1,Rest,data scientist,Rest
-106,analyst,NJ,5.0,56.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,1,0,Rest,Rest,Information Technology
-107,analyst,AZ,4.5,55.0,Information Technology,Company - Private,$25 to $50 million (USD),0,1,1,0,Rest,Rest,Information Technology
-108,other scientist,NE,3.0,61.5,Health Care,Hospital,Unknown / Non-Applicable,0,1,0,0,Rest,Rest,Health Care
-109,data scientist,CA,4.5,157.0,Information Technology,Company - Private,$100 to $500 million (USD),0,0,0,1,CA,data scientist,Information Technology
-110,data engineer,NJ,3.5,78.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0,Rest,data engineer,Information Technology
-111,data scientist,MA,4.0,113.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,1,0,MA,data scientist,Biotech & Pharmaceuticals
-112,data scientist,NY,5.0,140.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,0,0,NY,data scientist,Information Technology
-113,data scientist,CA,3.5,132.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,0,0,CA,data scientist,Information Technology
-114,data engineer,CA,4.0,108.0,Information Technology,Company - Public,$2 to $5 billion (USD),1,0,1,0,CA,data engineer,Information Technology
-115,data scientist,IN,5.0,80.5,Agriculture & Forestry,Company - Private,$50 to $100 million (USD),0,0,0,0,Rest,data scientist,Rest
-116,data scientist,MD,3.0,107.5,Health Care,Company - Private,Unknown / Non-Applicable,1,0,0,0,Rest,data scientist,Health Care
-117,data engineer,MN,5.0,95.0,Business Services,Company - Private,$25 to $50 million (USD),0,0,1,1,Rest,data engineer,Business Services
-118,data scientist,CA,3.0,119.5,Health Care,Nonprofit Organization,Unknown / Non-Applicable,1,0,1,0,CA,data scientist,Health Care
-119,data engineer,NC,3.5,134.0,Business Services,Company - Private,$1 to $2 billion (USD),0,0,1,1,Rest,data engineer,Business Services
-120,data scientist,MA,4.5,100.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0,MA,data scientist,Information Technology
-121,data scientist,OH,3.5,107.5,Media,Company - Public,$500 million to $1 billion (USD),1,0,1,0,Rest,data scientist,Rest
-122,data engineer,DC,4.0,122.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,1,Rest,data engineer,Information Technology
-123,data engineer,IL,4.5,92.5,Real Estate,Company - Public,$2 to $5 billion (USD),1,1,1,0,IL,data engineer,Rest
-124,analyst,MD,2.5,62.0,Business Services,Company - Private,$100 to $500 million (USD),0,1,1,0,Rest,Rest,Business Services
-125,other scientist,AL,4.0,39.5,Business Services,Other Organization,$25 to $50 million (USD),0,0,0,0,Rest,Rest,Business Services
-126,data scientist,CA,4.0,107.5,Manufacturing,Company - Private,$100 to $500 million (USD),0,1,0,0,CA,data scientist,Rest
-127,Data scientist project manager,MO,4.0,40.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1,Rest,Rest,Business Services
-128,data scientist,VA,4.0,89.5,Information Technology,Company - Public,$10+ billion (USD),1,0,1,0,VA,data scientist,Information Technology
-129,data scientist,IL,4.5,81.0,Business Services,Company - Private,$50 to $100 million (USD),1,1,1,1,IL,data scientist,Business Services
-130,data scientist,VA,4.0,147.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,0,1,VA,data scientist,Information Technology
-131,data scientist,TX,3.5,85.0,Finance,Company - Private,$100 to $500 million (USD),1,1,1,0,Rest,data scientist,Rest
-132,other scientist,CA,3.0,81.5,Manufacturing,Company - Private,$1 to $2 billion (USD),0,1,0,0,CA,Rest,Rest
-133,other scientist,CA,4.0,168.0,Biotech & Pharmaceuticals,Company - Public,$500 million to $1 billion (USD),0,1,0,0,CA,Rest,Biotech & Pharmaceuticals
-134,machine learning engineer,CO,4.5,100.5,Aerospace & Defense,Company - Private,Unknown / Non-Applicable,1,1,1,1,Rest,machine learning engineer,Rest
-135,data scientist,NY,3.5,97.0,Business Services,Company - Private,$100 to $500 million (USD),1,1,1,0,NY,data scientist,Business Services
-136,data scientist,VA,4.5,85.0,Business Services,Company - Public,$1 to $2 billion (USD),0,0,1,0,VA,data scientist,Business Services
-137,data scientist,CA,4.5,153.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,1,CA,data scientist,Information Technology
-138,data engineer,FL,5.0,132.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,0,0,Rest,data engineer,Information Technology
-139,data engineer,IL,4.5,100.0,Information Technology,Company - Private,$10 to $25 million (USD),0,1,1,0,IL,data engineer,Information Technology
-140,data scientist,CO,4.0,105.0,Travel & Tourism,Company - Private,Unknown / Non-Applicable,1,0,1,0,Rest,data scientist,Rest
-141,data engineer,UT,4.5,87.0,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,1,0,1,Rest,data engineer,Rest
-142,analyst,CA,4.5,103.5,Real Estate,Company - Private,Unknown / Non-Applicable,0,1,1,0,CA,Rest,Rest
-143,other scientist,PA,3.0,124.0,Education,College / University,Unknown / Non-Applicable,1,1,0,0,Rest,Rest,Rest
-144,data scientist,WA,4.0,67.0,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),1,0,0,0,Rest,data scientist,Rest
-145,data engineer,DC,4.0,87.0,Information Technology,Company - Private,$2 to $5 billion (USD),0,0,0,0,Rest,data engineer,Information Technology
-146,data scientist,IL,4.5,137.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,1,IL,data scientist,Information Technology
-147,data scientist,OH,4.0,100.0,Business Services,Company - Private,$100 to $500 million (USD),1,1,1,0,Rest,data scientist,Business Services
-148,data engineer,TN,4.0,106.5,Insurance,Nonprofit Organization,$5 to $10 billion (USD),0,1,1,0,Rest,data engineer,Insurance
-149,data scientist,WA,4.0,98.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0,Rest,data scientist,Rest
-150,analyst,FL,5.0,61.0,Business Services,Company - Private,$100 to $500 million (USD),1,1,1,0,Rest,Rest,Business Services
-151,data scientist,IN,4.5,106.5,Business Services,Company - Private,Unknown / Non-Applicable,1,0,1,1,Rest,data scientist,Business Services
-152,data engineer,MA,4.0,84.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0,MA,data engineer,Information Technology
-153,Data scientist project manager,NJ,3.5,109.5,Manufacturing,Company - Public,$2 to $5 billion (USD),1,1,0,0,Rest,Rest,Rest
-154,data scientist,MA,4.0,164.0,Insurance,Company - Private,$10+ billion (USD),1,0,1,1,MA,data scientist,Insurance
-155,data scientist,CA,4.0,169.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,$10+ billion (USD),1,1,1,0,CA,data scientist,Biotech & Pharmaceuticals
-156,data scientist,CA,4.0,142.0,Telecommunications,Company - Public,$2 to $5 billion (USD),1,1,0,1,CA,data scientist,Rest
-157,other scientist,MA,4.0,76.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-158,data scientist,MD,4.0,107.0,Insurance,Company - Private,$500 million to $1 billion (USD),1,1,1,0,Rest,data scientist,Insurance
-159,data scientist,CA,3.5,171.5,Information Technology,Company - Public,$10+ billion (USD),1,0,1,1,CA,data scientist,Information Technology
-160,data scientist,TX,4.0,96.0,Insurance,Company - Private,Unknown / Non-Applicable,0,1,0,0,Rest,data scientist,Insurance
-161,data scientist,CA,4.5,142.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,1,0,CA,data scientist,Information Technology
-162,data engineer,UT,4.5,107.0,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,1,0,0,Rest,data engineer,Rest
-163,other scientist,MA,3.5,145.0,Biotech & Pharmaceuticals,Company - Private,$1 to $2 billion (USD),1,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-164,analyst,VA,3.0,61.5,Education,Nonprofit Organization,$25 to $50 million (USD),1,1,1,0,VA,Rest,Rest
-165,other scientist,PA,4.0,42.0,Health Care,Nonprofit Organization,Unknown / Non-Applicable,0,0,0,0,Rest,Rest,Health Care
-166,data scientist,WI,3.0,120.0,Finance,Government,$50 to $100 million (USD),1,0,1,0,Rest,data scientist,Rest
-167,other scientist,MA,4.5,62.0,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),0,0,0,0,MA,Rest,Biotech & Pharmaceuticals
-168,data scientist,CA,4.0,150.5,Information Technology,Company - Public,$2 to $5 billion (USD),1,0,1,0,CA,data scientist,Information Technology
-169,Data scientist project manager,MI,4.5,87.5,Business Services,Company - Private,Unknown / Non-Applicable,0,1,1,0,Rest,Rest,Business Services
-170,data engineer,FL,4.5,71.5,Business Services,Company - Public,$25 to $50 million (USD),1,1,1,1,Rest,data engineer,Business Services
-171,analyst,CA,4.0,51.5,Retail,Subsidiary or Business Segment,$100 to $500 million (USD),0,1,0,0,CA,Rest,Rest
-172,other scientist,CA,4.0,151.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,0,CA,Rest,Biotech & Pharmaceuticals
-173,analyst,NJ,3.0,77.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0,Rest,Rest,Information Technology
-174,other scientist,MA,4.0,140.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-175,data scientist,NJ,3.5,98.5,Insurance,Company - Private,$10 to $25 million (USD),0,1,1,0,Rest,data scientist,Insurance
-176,data scientist,CA,4.0,225.0,Information Technology,Company - Private,$5 to $10 million (USD),1,1,0,1,CA,data scientist,Information Technology
-177,other scientist,DE,4.0,56.5,Health Care,Nonprofit Organization,$100 to $500 million (USD),0,0,0,0,Rest,Rest,Health Care
-178,other scientist,MA,4.0,161.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0,MA,Rest,Biotech & Pharmaceuticals
-179,data scientist,NY,3.5,147.0,Insurance,Company - Public,$1 to $2 billion (USD),1,0,1,1,NY,data scientist,Insurance
-180,analyst,MO,4.5,61.0,"Oil, Gas, Energy & Utilities",Company - Private,$1 to $2 billion (USD),0,1,1,0,Rest,Rest,Rest
-181,machine learning engineer,PA,3.0,120.0,Education,College / University,Unknown / Non-Applicable,1,0,0,0,Rest,machine learning engineer,Rest
-182,data scientist,AZ,3.5,124.5,Finance,Company - Public,$500 million to $1 billion (USD),1,1,1,0,Rest,data scientist,Rest
-183,data scientist,CA,4.0,148.0,Finance,Company - Private,$50 to $100 million (USD),1,0,0,0,CA,data scientist,Rest
-184,analyst,AL,5.0,59.0,Aerospace & Defense,Company - Private,$25 to $50 million (USD),1,1,0,0,Rest,Rest,Rest
-185,data scientist,MA,4.0,146.5,Insurance,Company - Public,$5 to $10 billion (USD),1,1,1,0,MA,data scientist,Insurance
-186,other scientist,MA,3.0,91.5,Biotech & Pharmaceuticals,Company - Public,Unknown / Non-Applicable,0,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-187,machine learning engineer,IL,3.0,133.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,0,1,1,IL,machine learning engineer,Biotech & Pharmaceuticals
-188,data scientist,UT,5.0,140.5,Biotech & Pharmaceuticals,Company - Private,$1 to $5 million (USD),1,0,0,1,Rest,data scientist,Biotech & Pharmaceuticals
-189,data engineer,LA,4.0,70.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,1,0,Rest,data engineer,Information Technology
-190,other scientist,NY,3.5,84.5,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0,NY,Rest,Health Care
-191,na,MD,4.0,93.5,Information Technology,Company - Private,$5 to $10 million (USD),0,1,0,0,Rest,Rest,Information Technology
-192,other scientist,MA,4.5,134.5,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),0,0,0,0,MA,Rest,Biotech & Pharmaceuticals
-193,machine learning engineer,CA,4.0,181.0,Information Technology,Company - Private,$10 to $25 million (USD),1,0,1,0,CA,machine learning engineer,Information Technology
-194,other scientist,NY,3.5,84.5,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0,NY,Rest,Health Care
-195,data engineer,CA,4.5,205.0,Information Technology,Company - Private,$50 to $100 million (USD),1,0,1,1,CA,data engineer,Information Technology
-196,analyst,CA,4.0,48.5,"Arts, Entertainment & Recreation",Company - Private,$100 to $500 million (USD),0,1,1,0,CA,Rest,Rest
-197,other scientist,TX,4.0,44.5,Health Care,Hospital,$50 to $100 million (USD),0,0,0,1,Rest,Rest,Health Care
-198,other scientist,IL,2.5,52.5,Manufacturing,Company - Private,$100 to $500 million (USD),0,0,0,0,IL,Rest,Rest
-199,machine learning engineer,PA,3.0,124.0,Education,College / University,Unknown / Non-Applicable,0,0,0,0,Rest,machine learning engineer,Rest
-200,Data scientist project manager,CA,3.5,64.0,Health Care,Nonprofit Organization,$500 million to $1 billion (USD),0,0,1,0,CA,Rest,Health Care
-201,data engineer,TN,3.0,98.0,Retail,Company - Private,$10+ billion (USD),1,0,1,0,Rest,data engineer,Rest
-202,other scientist,DE,4.0,56.5,Health Care,Nonprofit Organization,$100 to $500 million (USD),0,0,0,0,Rest,Rest,Health Care
-203,other scientist,WI,3.5,54.0,Manufacturing,Company - Private,Unknown / Non-Applicable,0,0,0,0,Rest,Rest,Rest
-204,other scientist,MD,3.0,81.0,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,1,0,0,Rest,Rest,Biotech & Pharmaceuticals
-205,data engineer,IL,3.5,107.5,Transportation & Logistics,Company - Public,$2 to $5 billion (USD),0,0,1,0,IL,data engineer,Rest
-206,data scientist,IL,4.0,112.5,Transportation & Logistics,Company - Private,Unknown / Non-Applicable,1,1,1,1,IL,data scientist,Rest
-207,data scientist,VA,4.0,89.0,Aerospace & Defense,Company - Public,$10+ billion (USD),1,1,1,0,VA,data scientist,Rest
-208,data scientist,WI,5.0,100.5,Insurance,Company - Private,$1 to $2 billion (USD),0,0,0,0,Rest,data scientist,Insurance
-209,analyst,NY,4.0,65.0,Travel & Tourism,Company - Private,$2 to $5 billion (USD),0,1,1,0,NY,Rest,Rest
-210,other scientist,LA,3.5,41.5,Government,Government,Unknown / Non-Applicable,0,0,0,0,Rest,Rest,Rest
-211,data scientist,TX,4.5,72.5,Business Services,Subsidiary or Business Segment,Unknown / Non-Applicable,1,1,1,1,Rest,data scientist,Business Services
-212,analyst,FL,5.0,61.0,Business Services,Company - Private,$100 to $500 million (USD),1,1,1,0,Rest,Rest,Business Services
-213,Data scientist project manager,NJ,3.5,109.5,Manufacturing,Company - Public,$2 to $5 billion (USD),1,1,0,0,Rest,Rest,Rest
-214,data engineer,MA,4.0,84.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0,MA,data engineer,Information Technology
-215,data scientist,IL,3.5,87.5,Business Services,Company - Private,$10 to $25 million (USD),0,0,1,0,IL,data scientist,Business Services
-216,analyst,CA,3.5,92.5,Media,Company - Public,$10+ billion (USD),1,1,1,0,CA,Rest,Rest
-217,data scientist,VA,3.5,81.5,Government,Nonprofit Organization,$1 to $2 billion (USD),1,0,0,0,VA,data scientist,Rest
-218,analyst,OH,4.5,79.0,Transportation & Logistics,Company - Private,Unknown / Non-Applicable,0,0,1,0,Rest,Rest,Rest
-219,data scientist,MA,4.0,164.0,Insurance,Company - Private,$10+ billion (USD),1,0,1,1,MA,data scientist,Insurance
-220,data scientist,CA,4.0,169.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,$10+ billion (USD),1,1,1,0,CA,data scientist,Biotech & Pharmaceuticals
-221,data scientist,CA,4.0,142.0,Telecommunications,Company - Public,$2 to $5 billion (USD),1,1,0,1,CA,data scientist,Rest
-222,analyst,CA,3.0,47.5,Non-Profit,Nonprofit Organization,$50 to $100 million (USD),0,1,0,0,CA,Rest,Rest
-223,other scientist,MA,4.0,76.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-224,analyst,CA,3.5,69.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0,CA,Rest,Information Technology
-225,analyst,ID,4.0,49.0,Information Technology,Company - Private,$50 to $100 million (USD),1,1,1,0,Rest,Rest,Information Technology
-226,data scientist,CA,3.5,171.5,Information Technology,Company - Public,$10+ billion (USD),1,0,1,1,CA,data scientist,Information Technology
-227,data scientist,MD,4.0,107.0,Insurance,Company - Private,$500 million to $1 billion (USD),1,1,1,0,Rest,data scientist,Insurance
-228,analyst,NJ,4.0,59.0,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,0,0,Rest,Rest,Information Technology
-229,data scientist,IN,3.5,88.5,Information Technology,Company - Private,$25 to $50 million (USD),0,0,0,1,Rest,data scientist,Information Technology
-230,data engineer,UT,4.5,107.0,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,1,0,0,Rest,data engineer,Rest
-231,data scientist,MA,4.0,86.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,1,0,1,MA,data scientist,Biotech & Pharmaceuticals
-232,data scientist,KY,4.5,84.0,Transportation & Logistics,Nonprofit Organization,$10 to $25 million (USD),1,1,1,0,Rest,data scientist,Rest
-233,data analitics,NY,5.0,114.5,Business Services,Company - Private,$50 to $100 million (USD),1,1,1,0,NY,Rest,Business Services
-234,other scientist,MA,3.5,145.0,Biotech & Pharmaceuticals,Company - Private,$1 to $2 billion (USD),1,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-235,data engineer,TN,4.5,88.0,Information Technology,Company - Public,$100 to $500 million (USD),1,1,1,1,Rest,data engineer,Information Technology
-236,data engineer,IL,4.5,100.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,1,IL,data engineer,Information Technology
-237,analyst,VA,3.0,61.5,Education,Nonprofit Organization,$25 to $50 million (USD),1,1,1,0,VA,Rest,Rest
-238,data scientist,OR,2.5,96.5,Business Services,Company - Public,$1 to $2 billion (USD),1,0,1,0,Rest,data scientist,Business Services
-239,analyst,MN,4.5,76.0,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,0,Rest,Rest,Business Services
-240,data scientist,NY,4.0,15.5,Business Services,Company - Private,$100 to $500 million (USD),0,1,0,0,NY,data scientist,Business Services
-241,data scientist,TX,4.5,83.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,0,Rest,data scientist,Business Services
-242,data scientist,WI,3.0,120.0,Finance,Government,$50 to $100 million (USD),1,0,1,0,Rest,data scientist,Rest
-243,data scientist,CA,4.0,163.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,$10+ billion (USD),0,1,1,0,CA,data scientist,Biotech & Pharmaceuticals
-244,analyst,RI,3.5,100.0,Insurance,Nonprofit Organization,Unknown / Non-Applicable,0,0,1,1,Rest,Rest,Insurance
-245,other scientist,NE,4.0,52.5,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,1,0,0,Rest,Rest,Rest
-246,other scientist,PA,4.0,42.0,Health Care,Nonprofit Organization,Unknown / Non-Applicable,0,0,0,0,Rest,Rest,Health Care
-247,analyst,DC,3.5,50.0,Health Care,Nonprofit Organization,Unknown / Non-Applicable,0,1,1,0,Rest,Rest,Health Care
-248,data engineer,TX,3.5,93.0,Business Services,Company - Private,$50 to $100 million (USD),1,0,1,1,Rest,data engineer,Business Services
-249,data scientist,OH,3.0,94.5,Insurance,Company - Private,$2 to $5 billion (USD),1,0,1,0,Rest,data scientist,Insurance
-250,data scientist,CA,4.0,150.5,Information Technology,Company - Public,$2 to $5 billion (USD),1,0,1,0,CA,data scientist,Information Technology
-251,data scientist,NC,4.0,102.0,Insurance,Company - Public,$5 to $10 billion (USD),1,1,1,1,Rest,data scientist,Insurance
-252,other scientist,MA,4.5,62.0,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),0,0,0,0,MA,Rest,Biotech & Pharmaceuticals
-253,Data scientist project manager,MI,4.5,87.5,Business Services,Company - Private,Unknown / Non-Applicable,0,1,1,0,Rest,Rest,Business Services
-254,data scientist,CT,4.0,84.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,1,Rest,data scientist,Biotech & Pharmaceuticals
-255,data scientist,VA,4.0,143.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,0,1,VA,data scientist,Information Technology
-256,data scientist,PA,3.5,155.0,Business Services,Company - Private,$5 to $10 million (USD),1,1,0,1,Rest,data scientist,Business Services
-257,data engineer,FL,4.5,71.5,Business Services,Company - Public,$25 to $50 million (USD),1,1,1,1,Rest,data engineer,Business Services
-258,data scientist,CA,4.0,108.0,Insurance,Company - Private,$10 to $25 million (USD),1,0,1,0,CA,data scientist,Insurance
-259,other scientist,CA,4.0,151.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,0,CA,Rest,Biotech & Pharmaceuticals
-260,analyst,CA,4.0,51.5,Retail,Subsidiary or Business Segment,$100 to $500 million (USD),0,1,0,0,CA,Rest,Rest
-261,other scientist,MA,4.0,140.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-262,analyst,NJ,3.0,77.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0,Rest,Rest,Information Technology
-263,analyst,ID,4.5,63.5,Finance,Company - Private,$50 to $100 million (USD),0,1,1,0,Rest,Rest,Rest
-264,data scientist,CA,4.0,109.0,Information Technology,Company - Private,Less than $1 million (USD),1,0,1,0,CA,data scientist,Information Technology
-265,data scientist,TN,3.5,96.0,Aerospace & Defense,Company - Public,$500 million to $1 billion (USD),1,0,0,0,Rest,data scientist,Rest
-266,data scientist,CA,4.0,225.0,Information Technology,Company - Private,$5 to $10 million (USD),1,1,0,1,CA,data scientist,Information Technology
-267,data engineer,CA,3.5,101.0,Finance,Company - Public,$500 million to $1 billion (USD),1,1,1,1,CA,data engineer,Rest
-268,data scientist,NJ,3.5,98.5,Insurance,Company - Private,$10 to $25 million (USD),0,1,1,0,Rest,data scientist,Insurance
-269,data engineer,IA,4.0,77.5,Manufacturing,Company - Private,$1 to $2 billion (USD),0,1,1,0,Rest,data engineer,Rest
-270,other scientist,MA,4.0,161.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0,MA,Rest,Biotech & Pharmaceuticals
-271,other scientist,DE,4.0,56.5,Health Care,Nonprofit Organization,$100 to $500 million (USD),0,0,0,0,Rest,Rest,Health Care
-272,data scientist,NY,3.5,147.0,Insurance,Company - Public,$1 to $2 billion (USD),1,0,1,1,NY,data scientist,Insurance
-273,data scientist,CA,3.5,90.0,Information Technology,Company - Public,Unknown / Non-Applicable,1,1,1,0,CA,data scientist,Information Technology
-274,analyst,NJ,4.5,58.0,Finance,Company - Public,$5 to $10 billion (USD),0,0,1,1,Rest,Rest,Rest
-275,analyst,MO,4.5,61.0,"Oil, Gas, Energy & Utilities",Company - Private,$1 to $2 billion (USD),0,1,1,0,Rest,Rest,Rest
-276,machine learning engineer,PA,3.0,120.0,Education,College / University,Unknown / Non-Applicable,1,0,0,0,Rest,machine learning engineer,Rest
-277,data scientist,NY,4.0,128.0,Retail,Company - Public,$500 million to $1 billion (USD),1,0,0,0,NY,data scientist,Rest
-278,data scientist,OR,3.5,99.5,Finance,Company - Private,$100 to $500 million (USD),1,1,1,1,Rest,data scientist,Rest
-279,data scientist,MI,4.0,96.0,Real Estate,Company - Private,$500 million to $1 billion (USD),1,0,1,0,Rest,data scientist,Rest
-280,data scientist,DC,2.5,101.0,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),1,1,1,0,Rest,data scientist,Biotech & Pharmaceuticals
-281,data scientist,CA,4.0,148.0,Finance,Company - Private,$50 to $100 million (USD),1,0,0,0,CA,data scientist,Rest
-282,data scientist,VA,4.0,142.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,1,VA,data scientist,Information Technology
-283,data scientist,CA,4.5,169.0,Education,Company - Private,Unknown / Non-Applicable,0,1,1,1,CA,data scientist,Rest
-284,data scientist,AZ,3.5,124.5,Finance,Company - Public,$500 million to $1 billion (USD),1,1,1,0,Rest,data scientist,Rest
-285,analyst,AL,5.0,59.0,Aerospace & Defense,Company - Private,$25 to $50 million (USD),1,1,0,0,Rest,Rest,Rest
-286,data analitics,CA,4.5,52.5,Business Services,Company - Private,$10 to $25 million (USD),1,0,1,0,CA,Rest,Business Services
-287,data engineer,TX,5.0,75.5,Information Technology,Company - Private,$50 to $100 million (USD),0,0,1,0,Rest,data engineer,Information Technology
-288,data scientist,NY,4.0,139.0,Insurance,Company - Public,$10+ billion (USD),1,1,1,0,NY,data scientist,Insurance
-289,data engineer,MA,4.0,102.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,1,1,1,MA,data engineer,Biotech & Pharmaceuticals
-290,other scientist,SC,4.5,60.5,Business Services,Company - Private,$25 to $50 million (USD),0,0,0,0,Rest,Rest,Business Services
-291,data scientist,MA,4.0,146.5,Insurance,Company - Public,$5 to $10 billion (USD),1,1,1,0,MA,data scientist,Insurance
-292,other scientist,CA,4.0,125.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,$10+ billion (USD),0,1,0,0,CA,Rest,Biotech & Pharmaceuticals
-293,analyst,MA,4.0,81.0,Insurance,Company - Private,$10+ billion (USD),1,0,1,0,MA,Rest,Insurance
-294,machine learning engineer,IL,3.0,133.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,0,1,1,IL,machine learning engineer,Biotech & Pharmaceuticals
-295,analyst,DC,3.5,77.0,Information Technology,Subsidiary or Business Segment,$10+ billion (USD),0,1,1,0,Rest,Rest,Information Technology
-296,data engineer,VA,4.5,92.0,Business Services,Company - Public,$1 to $2 billion (USD),0,0,1,0,VA,data engineer,Business Services
-297,data scientist,MA,4.0,121.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0,MA,data scientist,Biotech & Pharmaceuticals
-298,data engineer,CA,4.0,162.5,Information Technology,Company - Public,$2 to $5 billion (USD),1,1,1,0,CA,data engineer,Information Technology
-299,other scientist,TX,4.0,60.0,Business Services,Nonprofit Organization,$500 million to $1 billion (USD),0,0,0,0,Rest,Rest,Business Services
-300,na,CA,4.0,87.5,-1,Nonprofit Organization,Unknown / Non-Applicable,1,1,1,0,CA,Rest,Rest
-301,data engineer,IN,4.5,90.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,0,Rest,data engineer,Information Technology
-302,data scientist,MA,4.0,114.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,0,0,MA,data scientist,Biotech & Pharmaceuticals
-303,data scientist,CA,4.0,121.0,Telecommunications,Company - Public,$2 to $5 billion (USD),1,1,1,0,CA,data scientist,Rest
-304,data scientist,TX,2.5,110.0,Business Services,Subsidiary or Business Segment,$50 to $100 million (USD),0,0,0,0,Rest,data scientist,Business Services
-305,other scientist,MA,3.0,91.5,Biotech & Pharmaceuticals,Company - Public,Unknown / Non-Applicable,0,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-306,analyst,VA,4.5,70.5,Business Services,Company - Public,$1 to $2 billion (USD),0,0,0,0,VA,Rest,Business Services
-307,data engineer,LA,4.0,70.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,1,0,Rest,data engineer,Information Technology
-308,data scientist,WA,4.0,76.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),1,0,0,0,Rest,data scientist,Rest
-309,data engineer,MA,4.0,92.0,Insurance,Company - Private,$10+ billion (USD),1,1,0,0,MA,data engineer,Insurance
-310,data scientist,UT,5.0,140.5,Biotech & Pharmaceuticals,Company - Private,$1 to $5 million (USD),1,0,0,1,Rest,data scientist,Biotech & Pharmaceuticals
-311,data scientist,VA,3.5,82.0,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,1,0,VA,data scientist,Information Technology
-312,other scientist,NY,3.5,84.5,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0,NY,Rest,Health Care
-313,other scientist,MA,4.5,134.5,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),0,0,0,0,MA,Rest,Biotech & Pharmaceuticals
-314,data scientist,CA,3.5,164.5,Business Services,Company - Private,Unknown / Non-Applicable,0,0,0,0,CA,data scientist,Business Services
-315,analyst,FL,3.5,44.0,Telecommunications,Company - Public,$50 to $100 million (USD),0,0,0,0,Rest,Rest,Rest
-316,na,MD,4.0,93.5,Information Technology,Company - Private,$5 to $10 million (USD),0,1,0,0,Rest,Rest,Information Technology
-317,data engineer,VA,4.5,109.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,0,VA,data engineer,Information Technology
-318,data engineer,TX,4.0,149.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,0,1,Rest,data engineer,Information Technology
-319,data engineer,DC,3.5,65.5,Business Services,Company - Private,Unknown / Non-Applicable,0,1,1,1,Rest,data engineer,Business Services
-320,data scientist,NC,3.5,124.5,Insurance,Company - Public,Unknown / Non-Applicable,1,1,0,0,Rest,data scientist,Insurance
-321,data engineer,CA,3.0,114.0,Business Services,Company - Private,Unknown / Non-Applicable,1,0,1,0,CA,data engineer,Business Services
-322,analyst,PA,4.0,49.0,Finance,Nonprofit Organization,Unknown / Non-Applicable,1,0,1,0,Rest,Rest,Rest
-323,other scientist,NY,3.5,84.5,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0,NY,Rest,Health Care
-324,analyst,VA,4.0,71.0,Information Technology,Company - Private,$100 to $500 million (USD),0,1,1,0,VA,Rest,Information Technology
-325,director,MA,4.0,101.0,Insurance,Company - Private,$10+ billion (USD),0,0,0,0,MA,Rest,Insurance
-326,data scientist,CA,3.5,107.0,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,0,1,CA,data scientist,Information Technology
-327,data scientist,MA,5.0,112.5,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,1,0,0,MA,data scientist,Biotech & Pharmaceuticals
-328,machine learning engineer,CA,4.0,181.0,Information Technology,Company - Private,$10 to $25 million (USD),1,0,1,0,CA,machine learning engineer,Information Technology
-329,analyst,IL,4.0,61.0,Information Technology,Company - Public,$5 to $10 billion (USD),1,0,1,0,IL,Rest,Information Technology
-330,data engineer,CA,4.5,205.0,Information Technology,Company - Private,$50 to $100 million (USD),1,0,1,1,CA,data engineer,Information Technology
-331,other scientist,KY,3.5,103.5,Manufacturing,Company - Private,$10+ billion (USD),0,0,0,0,Rest,Rest,Rest
-332,Data scientist project manager,MA,4.0,63.0,Insurance,Company - Private,$10+ billion (USD),0,1,0,0,MA,Rest,Insurance
-333,data analitics,CT,3.0,62.5,Information Technology,Company - Public,$10+ billion (USD),0,1,0,0,Rest,Rest,Information Technology
-334,data engineer,CA,3.5,94.5,Health Care,Company - Private,Unknown / Non-Applicable,1,1,1,1,CA,data engineer,Health Care
-335,analyst,CA,4.0,48.5,"Arts, Entertainment & Recreation",Company - Private,$100 to $500 million (USD),0,1,1,0,CA,Rest,Rest
-336,other scientist,MA,3.5,154.5,Biotech & Pharmaceuticals,Company - Private,$1 to $2 billion (USD),1,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-337,other scientist,TX,4.0,44.5,Health Care,Hospital,$50 to $100 million (USD),0,0,0,1,Rest,Rest,Health Care
-338,machine learning engineer,KS,4.0,87.0,Finance,Company - Public,$500 million to $1 billion (USD),1,1,1,0,Rest,machine learning engineer,Rest
-339,other scientist,IL,2.5,52.5,Manufacturing,Company - Private,$100 to $500 million (USD),0,0,0,0,IL,Rest,Rest
-340,data engineer,NY,3.5,64.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1,NY,data engineer,Business Services
-341,other scientist,CA,2.5,111.5,Biotech & Pharmaceuticals,Company - Public,$25 to $50 million (USD),0,1,0,0,CA,Rest,Biotech & Pharmaceuticals
-342,data engineer,MA,4.0,154.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,1,1,MA,data engineer,Biotech & Pharmaceuticals
-343,machine learning engineer,PA,3.0,124.0,Education,College / University,Unknown / Non-Applicable,0,0,0,0,Rest,machine learning engineer,Rest
-344,data scientist,IL,4.5,128.5,Business Services,Company - Private,$50 to $100 million (USD),1,1,1,1,IL,data scientist,Business Services
-345,other scientist,CO,4.0,65.0,Health Care,Hospital,$100 to $500 million (USD),0,0,0,0,Rest,Rest,Health Care
-346,Data scientist project manager,CA,3.5,64.0,Health Care,Nonprofit Organization,$500 million to $1 billion (USD),0,0,1,0,CA,Rest,Health Care
-347,data engineer,TN,3.0,98.0,Retail,Company - Private,$10+ billion (USD),1,0,1,0,Rest,data engineer,Rest
-348,data scientist,CA,4.5,142.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,0,0,CA,data scientist,Information Technology
-349,data scientist,NY,4.0,137.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,0,0,NY,data scientist,Biotech & Pharmaceuticals
-350,data engineer,CO,4.0,99.0,Insurance,Nonprofit Organization,$500 million to $1 billion (USD),1,0,1,1,Rest,data engineer,Insurance
-351,other scientist,WI,3.5,54.0,Manufacturing,Company - Private,Unknown / Non-Applicable,0,0,0,0,Rest,Rest,Rest
-352,data scientist,MA,4.5,139.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,1,0,MA,data scientist,Information Technology
-353,data engineer,MD,3.5,109.0,Information Technology,Company - Private,$25 to $50 million (USD),0,0,0,1,Rest,data engineer,Information Technology
-354,data scientist,IL,3.5,254.0,Insurance,Company - Private,$10+ billion (USD),1,0,0,0,IL,data scientist,Insurance
-355,other scientist,CA,3.0,73.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,Unknown / Non-Applicable,0,0,0,0,CA,Rest,Biotech & Pharmaceuticals
-356,other scientist,MD,3.0,81.0,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,1,0,0,Rest,Rest,Biotech & Pharmaceuticals
-357,other scientist,DE,4.0,56.5,Health Care,Nonprofit Organization,$100 to $500 million (USD),0,0,0,0,Rest,Rest,Health Care
-358,other scientist,NC,3.5,99.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0,Rest,Rest,Rest
-359,analyst,OH,3.5,45.5,Insurance,Company - Private,$500 million to $1 billion (USD),0,0,0,0,Rest,Rest,Insurance
-360,data engineer,IN,4.5,122.5,Business Services,Company - Private,$25 to $50 million (USD),1,0,1,1,Rest,data engineer,Business Services
-361,data scientist,IL,4.0,140.0,Finance,Company - Public,$1 to $2 billion (USD),1,1,1,0,IL,data scientist,Rest
-362,data scientist,VA,3.5,77.5,Government,Nonprofit Organization,$1 to $2 billion (USD),0,0,0,0,VA,data scientist,Rest
-363,other scientist,MA,3.5,55.0,"Construction, Repair & Maintenance",Company - Private,Unknown / Non-Applicable,0,1,0,0,MA,Rest,Rest
-364,other scientist,NC,3.5,117.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0,Rest,Rest,Rest
-365,other scientist,CA,2.5,70.5,Biotech & Pharmaceuticals,Company - Private,$50 to $100 million (USD),0,0,0,0,CA,Rest,Biotech & Pharmaceuticals
-366,Data scientist project manager,CA,5.0,61.5,Information Technology,Company - Private,$25 to $50 million (USD),0,1,1,0,CA,Rest,Information Technology
-367,other scientist,NY,3.0,70.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,0,NY,Rest,Biotech & Pharmaceuticals
-368,other scientist,GA,3.0,80.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,0,Rest,Rest,Biotech & Pharmaceuticals
-369,data engineer,MA,3.5,90.0,Insurance,Company - Private,$100 to $500 million (USD),0,1,1,0,MA,data engineer,Insurance
-370,other scientist,MA,4.0,120.0,-1,Company - Private,Unknown / Non-Applicable,0,1,0,0,MA,Rest,Rest
-371,other scientist,PA,3.0,73.5,Education,College / University,Unknown / Non-Applicable,0,1,0,0,Rest,Rest,Rest
-372,data scientist,FL,4.0,91.0,Business Services,Subsidiary or Business Segment,Unknown / Non-Applicable,1,1,1,0,Rest,data scientist,Business Services
-373,data scientist,DC,5.0,155.0,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,0,1,Rest,data scientist,Information Technology
-374,na,MA,4.0,129.5,Insurance,Company - Private,$10+ billion (USD),1,1,1,1,MA,Rest,Insurance
-375,data scientist,NY,4.0,167.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,1,NY,data scientist,Biotech & Pharmaceuticals
-376,analyst,WI,4.0,60.0,Finance,Company - Public,$1 to $2 billion (USD),0,1,0,1,Rest,Rest,Rest
-377,data scientist,CA,4.0,180.0,Finance,Company - Private,$50 to $100 million (USD),1,1,1,0,CA,data scientist,Rest
-378,analyst,NY,4.0,65.0,Travel & Tourism,Company - Private,$2 to $5 billion (USD),0,1,1,0,NY,Rest,Rest
-379,data engineer,NC,4.5,112.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,0,1,Rest,data engineer,Information Technology
-380,analyst,NY,2.0,87.5,Retail,Company - Private,$100 to $500 million (USD),1,1,1,0,NY,Rest,Rest
-381,data modeler,IN,3.5,51.5,Insurance,Company - Private,$10+ billion (USD),1,1,1,0,Rest,Rest,Insurance
-382,other scientist,CA,5.0,51.0,Business Services,Company - Private,$10 to $25 million (USD),0,1,0,0,CA,Rest,Business Services
-383,data scientist,MA,3.5,62.5,Finance,Company - Private,$10+ billion (USD),1,1,1,0,MA,data scientist,Rest
-384,data engineer,AZ,3.5,100.0,Health Care,Company - Public,Unknown / Non-Applicable,0,0,1,0,Rest,data engineer,Health Care
-385,data engineer,VA,4.5,85.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,1,VA,data engineer,Information Technology
-386,data scientist,FL,4.0,122.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,1,Rest,data scientist,Information Technology
-387,data analitics,IL,4.0,66.5,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,0,IL,Rest,Information Technology
-388,na,MO,5.0,70.5,Finance,Company - Private,Unknown / Non-Applicable,0,1,1,0,Rest,Rest,Rest
-389,data engineer,TX,5.0,138.5,Business Services,Company - Private,$10 to $25 million (USD),1,0,1,0,Rest,data engineer,Business Services
-390,data scientist,MA,3.5,107.5,Business Services,Company - Private,$100 to $500 million (USD),0,1,1,0,MA,data scientist,Business Services
-391,other scientist,MA,4.0,120.5,Biotech & Pharmaceuticals,Company - Public,$50 to $100 million (USD),0,0,0,0,MA,Rest,Biotech & Pharmaceuticals
-392,other scientist,MD,3.0,81.0,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,0,0,0,Rest,Rest,Biotech & Pharmaceuticals
-393,other scientist,KY,3.5,103.5,Manufacturing,Company - Private,$10+ billion (USD),0,0,0,0,Rest,Rest,Rest
-394,data engineer,IL,3.5,107.5,Transportation & Logistics,Company - Public,$2 to $5 billion (USD),0,0,1,0,IL,data engineer,Rest
-395,data engineer,CA,4.0,162.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,1,CA,data engineer,Information Technology
-396,data scientist,CA,3.5,68.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,1,0,0,CA,data scientist,Information Technology
-397,data scientist,OH,3.5,110.5,Insurance,Company - Public,$5 to $10 billion (USD),0,1,1,0,Rest,data scientist,Insurance
-398,data scientist,IL,4.0,81.0,Manufacturing,Company - Public,$10+ billion (USD),0,0,0,0,IL,data scientist,Rest
-399,data scientist,IL,4.5,130.0,Real Estate,Company - Public,$2 to $5 billion (USD),1,1,1,0,IL,data scientist,Rest
-400,data engineer,IA,4.0,115.5,Insurance,Subsidiary or Business Segment,$100 to $500 million (USD),1,1,1,0,Rest,data engineer,Insurance
-401,data scientist,WA,4.0,80.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0,Rest,data scientist,Rest
-402,analyst,IA,5.0,43.0,Finance,Company - Private,$100 to $500 million (USD),0,1,1,0,Rest,Rest,Rest
-403,director,MA,4.5,140.0,Biotech & Pharmaceuticals,Company - Public,Unknown / Non-Applicable,0,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-404,other scientist,MA,4.0,120.0,-1,Company - Private,Unknown / Non-Applicable,0,0,0,0,MA,Rest,Rest
-405,analyst,PA,3.0,66.5,Insurance,Company - Private,$5 to $10 billion (USD),0,1,1,0,Rest,Rest,Insurance
-406,data engineer,CA,5.0,94.5,Business Services,Company - Private,$1 to $5 million (USD),1,0,0,1,CA,data engineer,Business Services
-407,data scientist,WA,4.0,119.0,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0,Rest,data scientist,Rest
-408,other scientist,NE,3.5,51.5,Health Care,Nonprofit Organization,$10+ billion (USD),0,0,0,0,Rest,Rest,Health Care
-409,analyst,TN,3.0,27.5,Finance,Company - Public,$2 to $5 billion (USD),0,1,0,0,Rest,Rest,Rest
-410,data scientist,IL,3.5,194.5,Insurance,Company - Private,$10+ billion (USD),1,0,0,0,IL,data scientist,Insurance
-411,other scientist,TX,4.0,71.5,Business Services,Nonprofit Organization,$500 million to $1 billion (USD),1,1,1,1,Rest,Rest,Business Services
-412,data scientist,TX,4.0,105.5,Education,College / University,Unknown / Non-Applicable,1,0,0,1,Rest,data scientist,Rest
-413,other scientist,NC,3.5,74.0,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0,Rest,Rest,Rest
-414,analyst,AL,4.0,62.5,Aerospace & Defense,Company - Public,$10+ billion (USD),0,1,0,0,Rest,Rest,Rest
-415,other scientist,NC,4.5,65.5,Business Services,Nonprofit Organization,$500 million to $1 billion (USD),0,0,0,0,Rest,Rest,Business Services
-416,data scientist,NJ,4.0,161.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1,Rest,data scientist,Business Services
-417,analyst,PA,2.5,72.5,Biotech & Pharmaceuticals,Other Organization,$100 to $500 million (USD),0,1,1,0,Rest,Rest,Biotech & Pharmaceuticals
-418,data engineer,CA,4.0,139.0,Information Technology,Company - Public,$10 to $25 million (USD),1,1,0,1,CA,data engineer,Information Technology
-419,data engineer,CA,4.0,136.5,Information Technology,Company - Private,$10 to $25 million (USD),0,0,1,0,CA,data engineer,Information Technology
-420,data scientist,NY,4.0,74.5,Travel & Tourism,Company - Private,$2 to $5 billion (USD),1,0,0,0,NY,data scientist,Rest
-421,other scientist,NC,3.5,80.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0,Rest,Rest,Rest
-422,data scientist,NM,3.5,75.5,Biotech & Pharmaceuticals,Company - Public,$1 to $2 billion (USD),1,1,0,0,Rest,data scientist,Biotech & Pharmaceuticals
-423,data scientist,MO,5.0,143.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0,Rest,data scientist,Information Technology
-424,data scientist,VA,5.0,101.0,Aerospace & Defense,Company - Private,$10 to $25 million (USD),1,0,1,0,VA,data scientist,Rest
-425,data engineer,MA,4.0,92.0,Insurance,Company - Private,$10+ billion (USD),1,1,0,0,MA,data engineer,Insurance
-426,data scientist,WA,4.0,76.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),1,0,0,0,Rest,data scientist,Rest
-427,data scientist,UT,5.0,140.5,Biotech & Pharmaceuticals,Company - Private,$1 to $5 million (USD),1,0,0,1,Rest,data scientist,Biotech & Pharmaceuticals
-428,data scientist,NJ,4.0,116.5,Finance,Company - Public,$10+ billion (USD),0,1,1,0,Rest,data scientist,Rest
-429,machine learning engineer,CA,5.0,232.5,Information Technology,Subsidiary or Business Segment,Unknown / Non-Applicable,1,0,1,0,CA,machine learning engineer,Information Technology
-430,data scientist,CA,3.5,120.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0,CA,data scientist,Information Technology
-431,data scientist,VA,3.5,82.0,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,1,0,VA,data scientist,Information Technology
-432,other scientist,NY,3.5,84.5,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0,NY,Rest,Health Care
-433,data scientist,CA,3.0,153.0,Information Technology,Company - Public,Unknown / Non-Applicable,1,0,1,1,CA,data scientist,Information Technology
-434,data scientist,CA,3.5,127.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0,CA,data scientist,Information Technology
-435,data scientist,CA,5.0,85.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0,CA,data scientist,Information Technology
-436,data scientist,NY,3.0,76.5,Business Services,Company - Public,$1 to $2 billion (USD),1,1,1,0,NY,data scientist,Business Services
-437,data scientist,NY,3.5,128.0,Media,Subsidiary or Business Segment,$500 million to $1 billion (USD),1,0,1,0,NY,data scientist,Rest
-438,data engineer,PA,3.5,91.5,Business Services,Company - Private,$5 to $10 million (USD),1,1,1,1,Rest,data engineer,Business Services
-439,other scientist,MA,4.5,134.5,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),0,0,0,0,MA,Rest,Biotech & Pharmaceuticals
-440,data scientist,CA,3.5,164.5,Business Services,Company - Private,Unknown / Non-Applicable,0,0,0,0,CA,data scientist,Business Services
-441,na,MD,4.0,93.5,Information Technology,Company - Private,$5 to $10 million (USD),0,1,0,0,Rest,Rest,Information Technology
-442,analyst,FL,3.5,44.0,Telecommunications,Company - Public,$50 to $100 million (USD),0,0,0,0,Rest,Rest,Rest
-443,data engineer,TX,4.0,149.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,0,1,Rest,data engineer,Information Technology
-444,data engineer,DC,3.5,65.5,Business Services,Company - Private,Unknown / Non-Applicable,0,1,1,1,Rest,data engineer,Business Services
-445,data engineer,VA,4.5,109.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,0,VA,data engineer,Information Technology
-446,data engineer,CA,4.0,177.0,Information Technology,Subsidiary or Business Segment,$50 to $100 million (USD),1,0,1,1,CA,data engineer,Information Technology
-447,data scientist,VA,5.0,107.0,Aerospace & Defense,Company - Private,$100 to $500 million (USD),1,1,1,0,VA,data scientist,Rest
-448,data scientist,CA,4.5,154.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,0,CA,data scientist,Information Technology
-449,data scientist,CA,4.0,113.5,Accounting & Legal,Company - Private,Less than $1 million (USD),1,0,1,0,CA,data scientist,Rest
-450,data scientist,NC,3.5,124.5,Insurance,Company - Public,Unknown / Non-Applicable,1,1,0,0,Rest,data scientist,Insurance
-451,data scientist,CA,2.5,143.5,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,1,1,0,CA,data scientist,Biotech & Pharmaceuticals
-452,data scientist,CA,4.0,113.5,Information Technology,Company - Private,Less than $1 million (USD),1,0,1,0,CA,data scientist,Information Technology
-453,data scientist,VA,3.5,101.5,Aerospace & Defense,Company - Public,$10+ billion (USD),1,0,0,1,VA,data scientist,Rest
-454,analyst,NY,4.0,73.0,Manufacturing,Subsidiary or Business Segment,$2 to $5 billion (USD),0,1,1,1,NY,Rest,Rest
-455,data scientist,NY,3.5,80.5,Business Services,Company - Public,$2 to $5 billion (USD),1,0,1,1,NY,data scientist,Business Services
-456,data scientist,NY,4.0,110.5,-1,Company - Private,Unknown / Non-Applicable,1,0,1,0,NY,data scientist,Rest
-457,data engineer,CA,3.0,114.0,Business Services,Company - Private,Unknown / Non-Applicable,1,0,1,0,CA,data engineer,Business Services
-458,data scientist,CA,3.5,139.5,Consumer Services,Company - Private,$5 to $10 million (USD),1,0,1,0,CA,data scientist,Rest
-459,data scientist,NY,5.0,145.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0,NY,data scientist,Information Technology
-460,data scientist,NY,4.0,87.0,Finance,Company - Private,$100 to $500 million (USD),0,1,0,0,NY,data scientist,Rest
-461,data scientist,MA,4.5,100.5,Finance,Company - Private,$50 to $100 million (USD),0,1,1,0,MA,data scientist,Rest
-462,data scientist,NY,4.0,147.0,Information Technology,Company - Public,$10+ billion (USD),1,1,1,0,NY,data scientist,Information Technology
-463,data engineer,NY,4.0,110.5,Insurance,Company - Private,$100 to $500 million (USD),1,1,1,0,NY,data engineer,Insurance
-464,analyst,PA,4.0,49.0,Finance,Nonprofit Organization,Unknown / Non-Applicable,1,0,1,0,Rest,Rest,Rest
-465,data scientist,MA,5.0,94.0,Business Services,Company - Private,$5 to $10 million (USD),1,0,1,1,MA,data scientist,Business Services
-466,data scientist,NY,4.5,123.5,Information Technology,Company - Public,$500 million to $1 billion (USD),1,0,1,1,NY,data scientist,Information Technology
-467,other scientist,NY,3.5,84.5,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0,NY,Rest,Health Care
-468,analyst,VA,4.0,71.0,Information Technology,Company - Private,$100 to $500 million (USD),0,1,1,0,VA,Rest,Information Technology
-469,data engineer,OR,4.0,73.0,Information Technology,Company - Public,Unknown / Non-Applicable,0,0,1,0,Rest,data engineer,Information Technology
-470,director,MA,4.0,101.0,Insurance,Company - Private,$10+ billion (USD),0,0,0,0,MA,Rest,Insurance
-471,machine learning engineer,CA,4.0,181.0,Information Technology,Company - Private,$10 to $25 million (USD),1,0,1,0,CA,machine learning engineer,Information Technology
-472,data scientist,CA,4.0,109.5,Aerospace & Defense,Company - Public,$10+ billion (USD),0,1,1,0,CA,data scientist,Rest
-473,data scientist,WA,4.0,184.5,Information Technology,Company - Public,$10+ billion (USD),1,1,1,0,Rest,data scientist,Information Technology
-474,data scientist,NY,4.0,165.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,0,NY,data scientist,Information Technology
-475,analyst,IL,4.0,61.0,Information Technology,Company - Public,$5 to $10 billion (USD),1,0,1,0,IL,Rest,Information Technology
-476,data engineer,CA,4.5,205.0,Information Technology,Company - Private,$50 to $100 million (USD),1,0,1,1,CA,data engineer,Information Technology
-477,analyst,NY,3.5,59.5,Education,School / School District,$100 to $500 million (USD),1,1,1,0,NY,Rest,Rest
-478,other scientist,KY,3.5,103.5,Manufacturing,Company - Private,$10+ billion (USD),0,0,0,0,Rest,Rest,Rest
-479,data analitics,CT,3.0,62.5,Information Technology,Company - Public,$10+ billion (USD),0,1,0,0,Rest,Rest,Information Technology
-480,Data scientist project manager,MA,4.0,63.0,Insurance,Company - Private,$10+ billion (USD),0,1,0,0,MA,Rest,Insurance
-481,analyst,NY,4.0,66.0,Health Care,Company - Private,$10 to $25 million (USD),0,1,0,0,NY,Rest,Health Care
-482,data engineer,CA,3.5,94.5,Health Care,Company - Private,Unknown / Non-Applicable,1,1,1,1,CA,data engineer,Health Care
-483,data scientist,NY,4.5,75.5,Education,Company - Private,Unknown / Non-Applicable,1,0,1,1,NY,data scientist,Rest
-484,machine learning engineer,VA,4.0,87.0,Aerospace & Defense,Company - Public,$100 to $500 million (USD),1,0,0,0,VA,machine learning engineer,Rest
-485,data scientist,MD,4.0,140.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,1,0,0,Rest,data scientist,Biotech & Pharmaceuticals
-486,data scientist,MD,4.0,86.0,Information Technology,Company - Private,$25 to $50 million (USD),1,1,0,0,Rest,data scientist,Information Technology
-487,data scientist,CA,4.5,116.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0,CA,data scientist,Information Technology
-488,other scientist,MA,3.5,154.5,Biotech & Pharmaceuticals,Company - Private,$1 to $2 billion (USD),1,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-489,machine learning engineer,KS,4.0,87.0,Finance,Company - Public,$500 million to $1 billion (USD),1,1,1,0,Rest,machine learning engineer,Rest
-490,analyst,CA,4.0,48.5,"Arts, Entertainment & Recreation",Company - Private,$100 to $500 million (USD),0,1,1,0,CA,Rest,Rest
-491,data engineer,TX,3.5,80.0,Information Technology,Company - Private,$1 to $2 billion (USD),1,1,1,0,Rest,data engineer,Information Technology
-492,other scientist,TX,4.0,44.5,Health Care,Hospital,$50 to $100 million (USD),0,0,0,1,Rest,Rest,Health Care
-493,other scientist,IL,2.5,52.5,Manufacturing,Company - Private,$100 to $500 million (USD),0,0,0,0,IL,Rest,Rest
-494,data scientist,CA,4.0,173.0,Aerospace & Defense,Company - Public,$10+ billion (USD),1,0,0,0,CA,data scientist,Rest
-495,data engineer,AZ,3.5,68.5,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,0,0,0,Rest,data engineer,Biotech & Pharmaceuticals
-496,data scientist,NY,4.5,172.0,Finance,Company - Private,Unknown / Non-Applicable,0,0,0,0,NY,data scientist,Rest
-497,data scientist,MA,3.5,114.5,Insurance,Company - Private,$10+ billion (USD),1,0,0,0,MA,data scientist,Insurance
-498,other scientist,MD,4.0,95.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0,Rest,Rest,Biotech & Pharmaceuticals
-499,data scientist,MA,3.5,69.5,Government,Nonprofit Organization,$1 to $2 billion (USD),1,1,1,0,MA,data scientist,Rest
-500,data engineer,NY,3.5,64.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1,NY,data engineer,Business Services
-501,other scientist,CA,2.5,111.5,Biotech & Pharmaceuticals,Company - Public,$25 to $50 million (USD),0,1,0,0,CA,Rest,Biotech & Pharmaceuticals
-502,data scientist,NY,4.0,97.5,Consumer Services,Company - Private,Unknown / Non-Applicable,1,1,1,0,NY,data scientist,Rest
-503,data engineer,MA,4.0,154.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,1,1,MA,data engineer,Biotech & Pharmaceuticals
-504,machine learning engineer,PA,3.0,124.0,Education,College / University,Unknown / Non-Applicable,0,0,0,0,Rest,machine learning engineer,Rest
-505,data scientist,NY,3.5,95.0,Health Care,Company - Private,Unknown / Non-Applicable,1,0,1,1,NY,data scientist,Health Care
-506,data scientist,IL,4.5,128.5,Business Services,Company - Private,$50 to $100 million (USD),1,1,1,1,IL,data scientist,Business Services
-507,data scientist,CA,3.5,194.0,Information Technology,Subsidiary or Business Segment,Unknown / Non-Applicable,0,1,0,1,CA,data scientist,Information Technology
-508,data scientist,NY,3.5,104.5,Business Services,Company - Public,Unknown / Non-Applicable,1,1,1,1,NY,data scientist,Business Services
-509,other scientist,CO,4.0,65.0,Health Care,Hospital,$100 to $500 million (USD),0,0,0,0,Rest,Rest,Health Care
-510,data engineer,NC,4.5,85.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0,Rest,data engineer,Information Technology
-511,analyst,UT,4.5,50.0,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,1,1,1,Rest,Rest,Rest
-512,data engineer,CA,3.5,113.0,Media,Company - Public,$10+ billion (USD),1,1,1,1,CA,data engineer,Rest
-513,other scientist,MA,4.0,90.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,1,MA,Rest,Biotech & Pharmaceuticals
-514,data scientist,CA,4.5,153.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,0,CA,data scientist,Information Technology
-515,analyst,CA,3.5,123.5,Business Services,Company - Public,$2 to $5 billion (USD),0,1,1,0,CA,Rest,Business Services
-516,analyst,NY,4.0,47.0,Information Technology,Company - Private,$10 to $25 million (USD),0,0,1,0,NY,Rest,Information Technology
-517,Data scientist project manager,CA,3.5,64.0,Health Care,Nonprofit Organization,$500 million to $1 billion (USD),0,0,1,0,CA,Rest,Health Care
-518,data scientist,CA,4.0,162.0,Information Technology,Company - Public,$5 to $10 billion (USD),1,1,1,0,CA,data scientist,Information Technology
-519,data scientist,NY,4.0,137.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,0,0,NY,data scientist,Biotech & Pharmaceuticals
-520,data engineer,TN,3.0,98.0,Retail,Company - Private,$10+ billion (USD),1,0,1,0,Rest,data engineer,Rest
-521,data scientist,NY,4.0,115.0,Insurance,Company - Public,$10+ billion (USD),1,1,1,0,NY,data scientist,Insurance
-522,data scientist,CO,3.5,133.5,Biotech & Pharmaceuticals,Company - Public,$1 to $2 billion (USD),1,1,0,0,Rest,data scientist,Biotech & Pharmaceuticals
-523,data engineer,CO,4.0,99.0,Insurance,Nonprofit Organization,$500 million to $1 billion (USD),1,0,1,1,Rest,data engineer,Insurance
-524,other scientist,WI,3.5,54.0,Manufacturing,Company - Private,Unknown / Non-Applicable,0,0,0,0,Rest,Rest,Rest
-525,data engineer,TN,3.5,109.0,Health Care,Company - Private,Unknown / Non-Applicable,0,1,0,1,Rest,data engineer,Health Care
-526,data engineer,MD,3.5,109.0,Information Technology,Company - Private,$25 to $50 million (USD),0,0,0,1,Rest,data engineer,Information Technology
-527,data scientist,MA,4.5,139.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,1,0,MA,data scientist,Information Technology
-528,data scientist,IL,3.5,254.0,Insurance,Company - Private,$10+ billion (USD),1,0,0,0,IL,data scientist,Insurance
-529,machine learning engineer,NY,3.5,125.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,1,NY,machine learning engineer,Information Technology
-530,data scientist,MA,4.0,106.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,1,0,MA,data scientist,Biotech & Pharmaceuticals
-531,other scientist,CA,3.0,73.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,Unknown / Non-Applicable,0,0,0,0,CA,Rest,Biotech & Pharmaceuticals
-532,other scientist,MD,3.0,81.0,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,1,0,0,Rest,Rest,Biotech & Pharmaceuticals
-533,other scientist,DE,4.0,56.5,Health Care,Nonprofit Organization,$100 to $500 million (USD),0,0,0,0,Rest,Rest,Health Care
-534,other scientist,NC,3.5,99.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0,Rest,Rest,Rest
-535,analyst,OH,3.5,45.5,Insurance,Company - Private,$500 million to $1 billion (USD),0,0,0,0,Rest,Rest,Insurance
-536,analyst,MA,4.0,54.0,Insurance,Company - Public,$5 to $10 billion (USD),0,0,1,0,MA,Rest,Insurance
-537,data engineer,IN,4.5,122.5,Business Services,Company - Private,$25 to $50 million (USD),1,0,1,1,Rest,data engineer,Business Services
-538,analyst,FL,3.0,37.5,Information Technology,Subsidiary or Business Segment,$100 to $500 million (USD),0,1,1,0,Rest,Rest,Information Technology
-539,analyst,NY,4.0,53.5,Travel & Tourism,Company - Private,$2 to $5 billion (USD),1,1,1,0,NY,Rest,Rest
-540,data scientist,IL,4.0,140.0,Finance,Company - Public,$1 to $2 billion (USD),1,1,1,0,IL,data scientist,Rest
-541,data scientist,VA,3.5,77.5,Government,Nonprofit Organization,$1 to $2 billion (USD),0,0,0,0,VA,data scientist,Rest
-542,other scientist,MA,3.5,55.0,"Construction, Repair & Maintenance",Company - Private,Unknown / Non-Applicable,0,1,0,0,MA,Rest,Rest
-543,other scientist,NC,3.5,117.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0,Rest,Rest,Rest
-544,other scientist,CA,2.5,70.5,Biotech & Pharmaceuticals,Company - Private,$50 to $100 million (USD),0,0,0,0,CA,Rest,Biotech & Pharmaceuticals
-545,other scientist,NY,3.0,70.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,0,NY,Rest,Biotech & Pharmaceuticals
-546,Data scientist project manager,CA,5.0,61.5,Information Technology,Company - Private,$25 to $50 million (USD),0,1,1,0,CA,Rest,Information Technology
-547,other scientist,GA,3.0,80.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,0,Rest,Rest,Biotech & Pharmaceuticals
-548,data scientist,GA,5.0,79.5,Information Technology,Company - Private,$25 to $50 million (USD),1,1,1,0,Rest,data scientist,Information Technology
-549,data scientist,CA,5.0,168.0,Information Technology,Company - Private,$100 to $500 million (USD),1,1,1,0,CA,data scientist,Information Technology
-550,data engineer,MA,3.5,90.0,Insurance,Company - Private,$100 to $500 million (USD),0,1,1,0,MA,data engineer,Insurance
-551,other scientist,MA,4.0,120.0,-1,Company - Private,Unknown / Non-Applicable,0,1,0,0,MA,Rest,Rest
-552,analyst,CA,4.0,138.5,Information Technology,Company - Public,Unknown / Non-Applicable,1,0,1,0,CA,Rest,Information Technology
-553,data scientist,PA,4.0,111.5,Biotech & Pharmaceuticals,Company - Public,$2 to $5 billion (USD),0,0,0,0,Rest,data scientist,Biotech & Pharmaceuticals
-554,data scientist,MA,4.0,68.5,Insurance,Company - Private,$10+ billion (USD),0,1,0,0,MA,data scientist,Insurance
-555,other scientist,MA,4.0,84.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,1,MA,Rest,Biotech & Pharmaceuticals
-556,data engineer,TN,4.5,102.5,Information Technology,Company - Public,$100 to $500 million (USD),1,0,1,1,Rest,data engineer,Information Technology
-557,other scientist,PA,3.0,73.5,Education,College / University,Unknown / Non-Applicable,0,1,0,0,Rest,Rest,Rest
-558,other scientist,OH,4.0,93.5,Government,Nonprofit Organization,$50 to $100 million (USD),1,0,0,0,Rest,Rest,Rest
-559,data scientist,PA,3.5,127.5,Business Services,Company - Private,$5 to $10 million (USD),0,1,0,0,Rest,data scientist,Business Services
-560,analyst,UT,4.5,72.0,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,0,1,0,Rest,Rest,Rest
-561,na,MA,4.0,129.5,Insurance,Company - Private,$10+ billion (USD),1,1,1,1,MA,Rest,Insurance
-562,analyst,UT,3.5,47.0,Manufacturing,Company - Private,$500 million to $1 billion (USD),1,1,1,0,Rest,Rest,Rest
-563,data engineer,AL,4.0,65.0,Consumer Services,Subsidiary or Business Segment,Unknown / Non-Applicable,1,1,1,1,Rest,data engineer,Rest
-564,analyst,WI,4.0,60.0,Finance,Company - Public,$1 to $2 billion (USD),0,1,0,1,Rest,Rest,Rest
-565,data scientist,NY,4.0,167.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,1,NY,data scientist,Biotech & Pharmaceuticals
-566,analyst,NY,4.0,65.0,Travel & Tourism,Company - Private,$2 to $5 billion (USD),0,1,1,0,NY,Rest,Rest
-567,analyst,VA,4.0,94.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,0,VA,Rest,Information Technology
-568,analyst,NY,2.0,87.5,Retail,Company - Private,$100 to $500 million (USD),1,1,1,0,NY,Rest,Rest
-569,data engineer,VA,4.0,97.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,1,VA,data engineer,Information Technology
-570,data engineer,NC,4.5,112.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,0,1,Rest,data engineer,Information Technology
-571,data modeler,MA,4.0,91.5,Insurance,Company - Private,$10+ billion (USD),0,1,1,1,MA,Rest,Insurance
-572,data modeler,IN,3.5,51.5,Insurance,Company - Private,$10+ billion (USD),1,1,1,0,Rest,Rest,Insurance
-573,data scientist,MA,4.0,114.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0,MA,data scientist,Biotech & Pharmaceuticals
-574,data scientist,NY,4.5,115.0,Business Services,Company - Private,$10 to $25 million (USD),1,0,1,1,NY,data scientist,Business Services
-575,Data scientist project manager,PA,3.5,74.0,Business Services,Company - Private,$5 to $10 million (USD),1,0,1,1,Rest,Rest,Business Services
-576,other scientist,CA,5.0,51.0,Business Services,Company - Private,$10 to $25 million (USD),0,1,0,0,CA,Rest,Business Services
-577,data engineer,AZ,3.5,100.0,Health Care,Company - Public,Unknown / Non-Applicable,0,0,1,0,Rest,data engineer,Health Care
-578,data scientist,MA,4.0,121.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0,MA,data scientist,Biotech & Pharmaceuticals
-579,analyst,CA,4.5,121.5,Information Technology,Company - Private,$100 to $500 million (USD),0,0,1,0,CA,Rest,Information Technology
-580,data scientist,MA,3.5,62.5,Finance,Company - Private,$10+ billion (USD),1,1,1,0,MA,data scientist,Rest
-581,other scientist,MA,4.0,117.5,-1,Other Organization,Unknown / Non-Applicable,0,1,0,0,MA,Rest,Rest
-582,data scientist,FL,4.0,122.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,1,Rest,data scientist,Information Technology
-583,data engineer,VA,4.5,85.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,1,VA,data engineer,Information Technology
-584,data engineer,AZ,3.5,60.5,Information Technology,Company - Private,$50 to $100 million (USD),1,0,1,1,Rest,data engineer,Information Technology
-585,data scientist,CA,4.0,180.0,Finance,Company - Private,$50 to $100 million (USD),1,1,1,0,CA,data scientist,Rest
-586,na,MO,5.0,70.5,Finance,Company - Private,Unknown / Non-Applicable,0,1,1,0,Rest,Rest,Rest
-587,data engineer,VA,3.5,118.5,Aerospace & Defense,Company - Private,$1 to $2 billion (USD),1,0,1,0,VA,data engineer,Rest
-588,data analitics,IL,4.0,66.5,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,0,IL,Rest,Information Technology
-589,data scientist,MA,3.5,107.5,Business Services,Company - Private,$100 to $500 million (USD),0,1,1,0,MA,data scientist,Business Services
-590,data engineer,TX,5.0,138.5,Business Services,Company - Private,$10 to $25 million (USD),1,0,1,0,Rest,data engineer,Business Services
-591,other scientist,MD,3.0,81.0,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,0,0,0,Rest,Rest,Biotech & Pharmaceuticals
-592,data engineer,IL,4.0,58.5,Insurance,Company - Private,$2 to $5 billion (USD),1,1,1,0,IL,data engineer,Insurance
-593,data engineer,IL,3.5,107.5,Transportation & Logistics,Company - Public,$2 to $5 billion (USD),0,0,1,0,IL,data engineer,Rest
-594,other scientist,MA,4.0,120.5,Biotech & Pharmaceuticals,Company - Public,$50 to $100 million (USD),0,0,0,0,MA,Rest,Biotech & Pharmaceuticals
-595,data scientist,CA,4.0,63.5,Information Technology,Company - Private,$10 to $25 million (USD),1,0,1,0,CA,data scientist,Information Technology
-596,other scientist,KY,3.5,103.5,Manufacturing,Company - Private,$10+ billion (USD),0,0,0,0,Rest,Rest,Rest
-597,data scientist,CA,4.5,107.0,Information Technology,Company - Public,$1 to $2 billion (USD),1,1,0,0,CA,data scientist,Information Technology
-598,data engineer,VA,4.0,105.5,Aerospace & Defense,Company - Public,$2 to $5 billion (USD),1,0,1,0,VA,data engineer,Rest
-599,data engineer,CA,3.0,83.0,Insurance,Company - Private,$500 million to $1 billion (USD),0,0,1,0,CA,data engineer,Insurance
-600,data engineer,CA,4.0,162.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,1,CA,data engineer,Information Technology
-601,data scientist,CA,3.5,68.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,1,0,0,CA,data scientist,Information Technology
-602,data scientist,OH,3.5,110.5,Insurance,Company - Public,$5 to $10 billion (USD),0,1,1,0,Rest,data scientist,Insurance
-603,data engineer,IA,4.0,115.5,Insurance,Subsidiary or Business Segment,$100 to $500 million (USD),1,1,1,0,Rest,data engineer,Insurance
-604,other scientist,CA,3.0,87.5,Biotech & Pharmaceuticals,Company - Public,Unknown / Non-Applicable,0,1,0,0,CA,Rest,Biotech & Pharmaceuticals
-605,data scientist,WA,4.0,80.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0,Rest,data scientist,Rest
-606,analyst,IA,5.0,43.0,Finance,Company - Private,$100 to $500 million (USD),0,1,1,0,Rest,Rest,Rest
-607,director,MA,4.5,140.0,Biotech & Pharmaceuticals,Company - Public,Unknown / Non-Applicable,0,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-608,director,MA,4.0,172.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,1,MA,Rest,Biotech & Pharmaceuticals
-609,other scientist,MA,4.0,120.0,-1,Company - Private,Unknown / Non-Applicable,0,0,0,0,MA,Rest,Rest
-610,analyst,PA,3.0,66.5,Insurance,Company - Private,$5 to $10 billion (USD),0,1,1,0,Rest,Rest,Insurance
-611,other scientist,CA,3.0,100.0,Biotech & Pharmaceuticals,Company - Public,Unknown / Non-Applicable,0,1,0,0,CA,Rest,Biotech & Pharmaceuticals
-612,data engineer,CA,5.0,94.5,Business Services,Company - Private,$1 to $5 million (USD),1,0,0,1,CA,data engineer,Business Services
-613,data scientist,CA,4.5,221.5,Health Care,Company - Private,Unknown / Non-Applicable,1,1,1,0,CA,data scientist,Health Care
-614,data scientist,WA,4.0,119.0,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0,Rest,data scientist,Rest
-615,data engineer,IL,3.5,95.5,Business Services,Company - Private,$50 to $100 million (USD),1,0,1,0,IL,data engineer,Business Services
-616,data scientist,IL,3.5,194.5,Insurance,Company - Private,$10+ billion (USD),1,0,0,0,IL,data scientist,Insurance
-617,other scientist,NE,3.5,51.5,Health Care,Nonprofit Organization,$10+ billion (USD),0,0,0,0,Rest,Rest,Health Care
-618,analyst,TN,3.0,27.5,Finance,Company - Public,$2 to $5 billion (USD),0,1,0,0,Rest,Rest,Rest
-619,analyst,NJ,3.5,173.0,Finance,Company - Private,$1 to $2 billion (USD),1,1,1,0,Rest,Rest,Rest
-620,data scientist,TX,4.0,105.5,Education,College / University,Unknown / Non-Applicable,1,0,0,1,Rest,data scientist,Rest
-621,other scientist,TX,4.0,71.5,Business Services,Nonprofit Organization,$500 million to $1 billion (USD),1,1,1,1,Rest,Rest,Business Services
-622,other scientist,NC,3.5,74.0,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0,Rest,Rest,Rest
-623,analyst,AL,4.0,62.5,Aerospace & Defense,Company - Public,$10+ billion (USD),0,1,0,0,Rest,Rest,Rest
-624,other scientist,NC,4.5,65.5,Business Services,Nonprofit Organization,$500 million to $1 billion (USD),0,0,0,0,Rest,Rest,Business Services
-625,data scientist,PA,4.0,85.0,Retail,Company - Public,$5 to $10 billion (USD),1,0,1,0,Rest,data scientist,Rest
-626,data scientist,MD,4.0,147.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,1,0,0,Rest,data scientist,Biotech & Pharmaceuticals
-627,data scientist,NJ,4.0,161.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1,Rest,data scientist,Business Services
-628,data engineer,VA,4.0,81.0,Health Care,Nonprofit Organization,$1 to $2 billion (USD),0,1,0,0,VA,data engineer,Health Care
-629,analyst,PA,2.5,72.5,Biotech & Pharmaceuticals,Other Organization,$100 to $500 million (USD),0,1,1,0,Rest,Rest,Biotech & Pharmaceuticals
-630,data engineer,CA,4.0,139.0,Information Technology,Company - Public,$10 to $25 million (USD),1,1,0,1,CA,data engineer,Information Technology
-631,data engineer,CA,4.0,136.5,Information Technology,Company - Private,$10 to $25 million (USD),0,0,1,0,CA,data engineer,Information Technology
-632,analyst,NY,3.5,83.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0,NY,Rest,Information Technology
-633,other scientist,MA,5.0,121.0,Business Services,Subsidiary or Business Segment,$5 to $10 million (USD),0,1,0,1,MA,Rest,Business Services
-634,data scientist,NY,4.0,74.5,Travel & Tourism,Company - Private,$2 to $5 billion (USD),1,0,0,0,NY,data scientist,Rest
-635,analyst,CA,2.5,85.5,Retail,Company - Private,Unknown / Non-Applicable,0,1,0,0,CA,Rest,Rest
-636,other scientist,NC,3.5,80.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0,Rest,Rest,Rest
-637,other scientist,MA,5.0,167.5,Business Services,Subsidiary or Business Segment,$5 to $10 million (USD),0,0,0,0,MA,Rest,Business Services
-638,machine learning engineer,PA,3.0,107.5,Education,College / University,Unknown / Non-Applicable,1,0,1,0,Rest,machine learning engineer,Rest
-639,analyst,WA,3.5,44.5,Non-Profit,Nonprofit Organization,$25 to $50 million (USD),0,1,1,1,Rest,Rest,Rest
-640,analyst,MD,3.5,107.5,Health Care,Company - Private,$500 million to $1 billion (USD),0,0,1,0,Rest,Rest,Health Care
-641,other scientist,MA,4.0,132.5,-1,Company - Private,Unknown / Non-Applicable,0,0,0,0,MA,Rest,Rest
-642,analyst,PA,4.0,69.5,Health Care,Company - Private,$500 million to $1 billion (USD),0,1,1,0,Rest,Rest,Health Care
-643,na,CA,3.5,98.5,Information Technology,Company - Public,$10+ billion (USD),1,0,1,1,CA,Rest,Information Technology
-644,other scientist,MD,3.0,80.5,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,1,0,0,Rest,Rest,Biotech & Pharmaceuticals
-645,other scientist,MA,4.0,76.5,Biotech & Pharmaceuticals,Company - Private,$10 to $25 million (USD),0,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-646,other scientist,MD,4.0,99.0,Aerospace & Defense,Company - Public,$10+ billion (USD),1,0,1,0,Rest,Rest,Rest
-647,Data scientist project manager,MA,4.0,96.5,Biotech & Pharmaceuticals,Company - Public,$50 to $100 million (USD),0,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-648,data scientist,MA,3.5,53.0,Insurance,Company - Private,$10+ billion (USD),0,0,0,0,MA,data scientist,Insurance
-649,data engineer,CA,3.0,103.0,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,0,1,CA,data engineer,Information Technology
-650,data scientist,CA,4.0,139.5,Finance,Company - Public,$50 to $100 million (USD),0,0,1,0,CA,data scientist,Rest
-651,data scientist,WA,4.0,67.0,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0,Rest,data scientist,Rest
-652,data analitics,CT,3.0,62.5,Information Technology,Company - Public,$10+ billion (USD),0,1,0,0,Rest,Rest,Information Technology
-653,other scientist,MD,4.0,92.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0,Rest,Rest,Biotech & Pharmaceuticals
-654,analyst,NY,4.0,66.0,Health Care,Company - Private,$10 to $25 million (USD),0,1,0,0,NY,Rest,Health Care
-655,data engineer,CA,3.5,94.5,Health Care,Company - Private,Unknown / Non-Applicable,1,1,1,1,CA,data engineer,Health Care
-656,data scientist,NJ,4.0,114.0,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1,Rest,data scientist,Business Services
-657,data scientist,NY,4.5,75.5,Education,Company - Private,Unknown / Non-Applicable,1,0,1,1,NY,data scientist,Rest
-658,data scientist,MO,3.5,96.0,Education,School / School District,$5 to $10 million (USD),0,1,1,0,Rest,data scientist,Rest
-659,machine learning engineer,VA,4.0,87.0,Aerospace & Defense,Company - Public,$100 to $500 million (USD),1,0,0,0,VA,machine learning engineer,Rest
-660,data scientist,MD,4.0,86.0,Information Technology,Company - Private,$25 to $50 million (USD),1,1,0,0,Rest,data scientist,Information Technology
-661,data scientist,CA,4.5,116.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0,CA,data scientist,Information Technology
-662,other scientist,MA,3.5,154.5,Biotech & Pharmaceuticals,Company - Private,$1 to $2 billion (USD),1,1,0,0,MA,Rest,Biotech & Pharmaceuticals
-663,analyst,CA,4.0,48.5,"Arts, Entertainment & Recreation",Company - Private,$100 to $500 million (USD),0,1,1,0,CA,Rest,Rest
-664,machine learning engineer,KS,4.0,87.0,Finance,Company - Public,$500 million to $1 billion (USD),1,1,1,0,Rest,machine learning engineer,Rest
-665,data engineer,TX,3.5,80.0,Information Technology,Company - Private,$1 to $2 billion (USD),1,1,1,0,Rest,data engineer,Information Technology
-666,other scientist,TX,4.0,44.5,Health Care,Hospital,$50 to $100 million (USD),0,0,0,1,Rest,Rest,Health Care
-667,data scientist,CA,4.0,173.0,Aerospace & Defense,Company - Public,$10+ billion (USD),1,0,0,0,CA,data scientist,Rest
-668,other scientist,IL,2.5,52.5,Manufacturing,Company - Private,$100 to $500 million (USD),0,0,0,0,IL,Rest,Rest
-669,data engineer,AZ,3.5,68.5,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,0,0,0,Rest,data engineer,Biotech & Pharmaceuticals
-670,other scientist,MD,4.0,95.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0,Rest,Rest,Biotech & Pharmaceuticals
-671,data scientist,MA,3.5,69.5,Government,Nonprofit Organization,$1 to $2 billion (USD),1,1,1,0,MA,data scientist,Rest
-672,data scientist,OH,4.5,107.0,Mining & Metals,Subsidiary or Business Segment,Unknown / Non-Applicable,1,0,1,1,Rest,data scientist,Rest
-673,data scientist,VA,4.0,112.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,0,VA,data scientist,Information Technology
-674,data scientist,DC,3.5,96.5,Business Services,Company - Private,$10 to $25 million (USD),1,0,0,0,Rest,data scientist,Business Services
-675,other scientist,CA,2.5,111.5,Biotech & Pharmaceuticals,Company - Public,$25 to $50 million (USD),0,1,0,0,CA,Rest,Biotech & Pharmaceuticals
-676,data engineer,MA,4.0,154.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,1,1,MA,data engineer,Biotech & Pharmaceuticals
-677,data scientist,NY,3.5,95.0,Health Care,Company - Private,Unknown / Non-Applicable,1,0,1,1,NY,data scientist,Health Care
-678,data scientist,NY,4.0,97.5,Consumer Services,Company - Private,Unknown / Non-Applicable,1,1,1,0,NY,data scientist,Rest
-679,data scientist,IL,4.5,128.5,Business Services,Company - Private,$50 to $100 million (USD),1,1,1,1,IL,data scientist,Business Services
-680,machine learning engineer,PA,3.0,124.0,Education,College / University,Unknown / Non-Applicable,0,0,0,0,Rest,machine learning engineer,Rest
-681,data scientist,CA,3.5,194.0,Information Technology,Subsidiary or Business Segment,Unknown / Non-Applicable,0,1,0,1,CA,data scientist,Information Technology
-682,other scientist,CO,4.0,65.0,Health Care,Hospital,$100 to $500 million (USD),0,0,0,0,Rest,Rest,Health Care
-683,analyst,UT,4.5,50.0,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,1,1,1,Rest,Rest,Rest
-684,data scientist,NY,3.5,104.5,Business Services,Company - Public,Unknown / Non-Applicable,1,1,1,1,NY,data scientist,Business Services
-685,data scientist,AZ,4.5,69.5,Information Technology,Company - Private,$50 to $100 million (USD),1,1,1,0,Rest,data scientist,Information Technology
-686,data scientist,CA,3.0,121.0,Education,Company - Private,Unknown / Non-Applicable,1,0,1,0,CA,data scientist,Rest
-687,data engineer,NC,4.5,85.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0,Rest,data engineer,Information Technology
-688,data engineer,CA,3.5,113.0,Media,Company - Public,$10+ billion (USD),1,1,1,1,CA,data engineer,Rest
-689,data scientist,CA,4.0,103.0,Manufacturing,Subsidiary or Business Segment,$25 to $50 million (USD),1,0,1,1,CA,data scientist,Rest
-690,other scientist,MA,4.0,90.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,1,MA,Rest,Biotech & Pharmaceuticals
-691,data scientist,CA,4.5,153.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,0,CA,data scientist,Information Technology
-692,data scientist,VA,3.5,106.5,Government,Nonprofit Organization,$1 to $2 billion (USD),1,1,1,0,VA,data scientist,Rest
-693,data scientist,MI,5.0,130.0,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,0,0,Rest,data scientist,Information Technology
-694,analyst,CA,3.5,123.5,Business Services,Company - Public,$2 to $5 billion (USD),0,1,1,0,CA,Rest,Business Services
-695,data modeler,NY,4.5,86.5,Information Technology,Company - Public,$500 million to $1 billion (USD),0,1,1,1,NY,Rest,Information Technology
-696,Data scientist project manager,CA,3.5,64.0,Health Care,Nonprofit Organization,$500 million to $1 billion (USD),0,0,1,0,CA,Rest,Health Care
-697,analyst,NY,4.0,47.0,Information Technology,Company - Private,$10 to $25 million (USD),0,0,1,0,NY,Rest,Information Technology
-698,data scientist,CA,4.0,162.0,Information Technology,Company - Public,$5 to $10 billion (USD),1,1,1,0,CA,data scientist,Information Technology
-699,data scientist,MD,4.0,140.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,1,0,0,Rest,data scientist,Biotech & Pharmaceuticals
-700,data scientist,WA,3.5,89.0,Information Technology,Company - Private,$5 to $10 million (USD),0,0,0,0,Rest,data scientist,Information Technology
-701,data engineer,TN,3.0,98.0,Retail,Company - Private,$10+ billion (USD),1,0,1,0,Rest,data engineer,Rest
-702,data scientist,NY,4.0,137.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,0,0,NY,data scientist,Biotech & Pharmaceuticals
-703,data engineer,CO,4.0,99.0,Insurance,Nonprofit Organization,$500 million to $1 billion (USD),1,0,1,1,Rest,data engineer,Insurance
-704,other scientist,WI,3.5,54.0,Manufacturing,Company - Private,Unknown / Non-Applicable,0,0,0,0,Rest,Rest,Rest
-705,data engineer,TN,3.5,109.0,Health Care,Company - Private,Unknown / Non-Applicable,0,1,0,1,Rest,data engineer,Health Care
-706,data engineer,MD,3.5,109.0,Information Technology,Company - Private,$25 to $50 million (USD),0,0,0,1,Rest,data engineer,Information Technology
-707,data scientist,MA,4.5,139.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,1,0,MA,data scientist,Information Technology
-708,data scientist,IL,3.5,254.0,Insurance,Company - Private,$10+ billion (USD),1,0,0,0,IL,data scientist,Insurance
-709,machine learning engineer,NY,3.5,125.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,1,NY,machine learning engineer,Information Technology
-710,data scientist,MA,4.0,106.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,1,0,MA,data scientist,Biotech & Pharmaceuticals
-711,other scientist,DE,4.0,56.5,Health Care,Nonprofit Organization,$100 to $500 million (USD),0,0,0,0,Rest,Rest,Health Care
-712,other scientist,CA,3.0,73.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,Unknown / Non-Applicable,0,0,0,0,CA,Rest,Biotech & Pharmaceuticals
-713,other scientist,MD,3.0,81.0,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,1,0,0,Rest,Rest,Biotech & Pharmaceuticals
-714,data scientist,PA,3.5,128.5,Business Services,Company - Private,$5 to $10 million (USD),1,0,1,1,Rest,data scientist,Business Services
-715,other scientist,NC,3.5,99.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0,Rest,Rest,Rest
-716,other scientist,CA,4.0,92.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,1,CA,Rest,Biotech & Pharmaceuticals
-717,analyst,OH,3.5,45.5,Insurance,Company - Private,$500 million to $1 billion (USD),0,0,0,0,Rest,Rest,Insurance
-718,data engineer,IN,4.5,122.5,Business Services,Company - Private,$25 to $50 million (USD),1,0,1,1,Rest,data engineer,Business Services
-719,analyst,FL,3.0,37.5,Information Technology,Subsidiary or Business Segment,$100 to $500 million (USD),0,1,1,0,Rest,Rest,Information Technology
-720,analyst,MA,4.0,54.0,Insurance,Company - Public,$5 to $10 billion (USD),0,0,1,0,MA,Rest,Insurance
-721,analyst,NY,4.0,53.5,Travel & Tourism,Company - Private,$2 to $5 billion (USD),1,1,1,0,NY,Rest,Rest
-722,data scientist,IL,4.0,140.0,Finance,Company - Public,$1 to $2 billion (USD),1,1,1,0,IL,data scientist,Rest
-723,data scientist,VA,3.5,77.5,Government,Nonprofit Organization,$1 to $2 billion (USD),0,0,0,0,VA,data scientist,Rest
-724,other scientist,MA,3.5,55.0,"Construction, Repair & Maintenance",Company - Private,Unknown / Non-Applicable,0,1,0,0,MA,Rest,Rest
-725,other scientist,NC,3.5,117.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0,Rest,Rest,Rest
-726,other scientist,CA,2.5,70.5,Biotech & Pharmaceuticals,Company - Private,$50 to $100 million (USD),0,0,0,0,CA,Rest,Biotech & Pharmaceuticals
-727,Data scientist project manager,CA,5.0,61.5,Information Technology,Company - Private,$25 to $50 million (USD),0,1,1,0,CA,Rest,Information Technology
-728,other scientist,GA,3.0,80.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,0,Rest,Rest,Biotech & Pharmaceuticals
-729,other scientist,NY,3.0,70.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,0,NY,Rest,Biotech & Pharmaceuticals
-730,other scientist,MA,4.0,120.0,-1,Company - Private,Unknown / Non-Applicable,0,1,0,0,MA,Rest,Rest
-731,data engineer,MA,3.5,90.0,Insurance,Company - Private,$100 to $500 million (USD),0,1,1,0,MA,data engineer,Insurance
-732,machine learning engineer,CA,4.5,111.0,Education,Company - Private,Unknown / Non-Applicable,1,1,0,1,CA,machine learning engineer,Rest
-733,analyst,CA,4.0,138.5,Information Technology,Company - Public,Unknown / Non-Applicable,1,0,1,0,CA,Rest,Information Technology
-734,data scientist,MA,4.0,68.5,Insurance,Company - Private,$10+ billion (USD),0,1,0,0,MA,data scientist,Insurance
-735,data engineer,CA,4.0,87.5,Information Technology,Company - Private,$100 to $500 million (USD),1,1,1,1,CA,data engineer,Information Technology
-736,data scientist,PA,4.0,111.5,Biotech & Pharmaceuticals,Company - Public,$2 to $5 billion (USD),0,0,0,0,Rest,data scientist,Biotech & Pharmaceuticals
-737,other scientist,MA,4.0,84.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,1,MA,Rest,Biotech & Pharmaceuticals
-738,data engineer,TN,4.5,102.5,Information Technology,Company - Public,$100 to $500 million (USD),1,0,1,1,Rest,data engineer,Information Technology
-739,other scientist,PA,3.0,73.5,Education,College / University,Unknown / Non-Applicable,0,1,0,0,Rest,Rest,Rest
-740,data scientist,PA,3.5,127.5,Business Services,Company - Private,$5 to $10 million (USD),0,1,0,0,Rest,data scientist,Business Services
-741,other scientist,OH,4.0,93.5,Government,Nonprofit Organization,$50 to $100 million (USD),1,0,0,0,Rest,Rest,Rest
+,job_title_sim,Job Location,Grouped_Rating,Avg_Salary,Sector,Type of ownership,Revenue,Python,excel,sql,aws
+0,data scientist,NM,4.0,72.0,Aerospace & Defense,Company - Private,$50 to $100 million (USD),1,1,0,0
+1,data scientist,MD,3.5,87.5,Health Care,Other Organization,$2 to $5 billion (USD),1,0,0,0
+2,data scientist,FL,5.0,85.0,Business Services,Company - Private,$100 to $500 million (USD),1,1,1,0
+3,data scientist,WA,4.0,76.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),1,0,0,0
+4,data scientist,NY,3.0,114.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,0
+5,data scientist,TX,3.5,95.0,Real Estate,Company - Public,$1 to $2 billion (USD),1,1,1,1
+6,data scientist,MD,4.5,73.5,Finance,Company - Private,Unknown / Non-Applicable,0,1,0,0
+7,data scientist,CA,4.0,114.0,Business Services,Company - Private,$25 to $50 million (USD),1,1,1,1
+8,other scientist,NY,3.5,61.0,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0
+9,data scientist,NY,5.0,140.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,0,0
+10,data scientist,CA,3.5,163.5,Retail,Company - Private,$1 to $2 billion (USD),1,0,0,0
+11,data scientist,VA,4.5,85.0,Business Services,Company - Public,$1 to $2 billion (USD),0,0,1,0
+12,data scientist,TX,3.5,139.0,Retail,Company - Public,$10+ billion (USD),0,0,1,0
+13,analyst,WA,4.5,65.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1
+14,data scientist,MA,4.0,113.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,1,0
+15,data engineer,NJ,4.0,146.0,Media,Subsidiary or Business Segment,Unknown / Non-Applicable,0,1,0,0
+16,other scientist,MA,4.0,102.0,Biotech & Pharmaceuticals,Company - Public,$1 to $5 million (USD),0,1,0,0
+17,data scientist,CA,4.5,153.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,1
+18,data scientist,CA,4.5,142.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,1,0
+19,data scientist,CO,4.0,87.5,Insurance,Nonprofit Organization,$500 million to $1 billion (USD),1,1,1,0
+20,data scientist,WA,3.5,105.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0
+21,data scientist,TX,4.0,96.0,Insurance,Company - Private,Unknown / Non-Applicable,0,1,0,0
+22,data scientist,IL,4.0,112.5,Transportation & Logistics,Company - Private,Unknown / Non-Applicable,1,1,1,1
+23,data scientist,KY,4.5,84.0,Transportation & Logistics,Nonprofit Organization,$10 to $25 million (USD),1,1,1,0
+24,data scientist,VA,4.0,143.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,0,1
+25,data scientist,MA,4.0,86.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,1,0,1
+26,data scientist,OR,3.5,99.5,Finance,Company - Private,$100 to $500 million (USD),1,1,1,1
+27,analyst,MA,4.0,47.5,Insurance,Company - Public,$5 to $10 billion (USD),0,1,0,0
+28,data scientist,CT,4.0,84.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,1
+29,data scientist,FL,5.0,85.0,Business Services,Company - Private,$100 to $500 million (USD),1,1,1,0
+30,data scientist,WA,4.0,76.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),1,0,0,0
+31,data scientist,MI,4.0,96.0,Real Estate,Company - Private,$500 million to $1 billion (USD),1,0,1,0
+32,data scientist,MA,4.0,114.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,0,0
+33,data scientist,CA,4.0,121.0,Telecommunications,Company - Public,$2 to $5 billion (USD),1,1,1,0
+34,data scientist,MA,5.0,112.5,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,1,0,0
+35,analyst,CA,4.5,106.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0
+36,data scientist,CA,3.5,107.0,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,0,1
+37,data scientist,MA,5.0,110.0,Aerospace & Defense,Company - Private,$100 to $500 million (USD),1,1,1,0
+38,data scientist,CA,3.5,147.5,Biotech & Pharmaceuticals,Company - Public,$1 to $2 billion (USD),1,1,0,0
+39,data engineer,NY,3.5,106.0,Insurance,Company - Private,$100 to $500 million (USD),1,1,1,0
+40,analyst,CA,4.5,88.0,Information Technology,Company - Private,$50 to $100 million (USD),1,1,1,1
+41,data engineer,MA,4.0,98.5,-1,Company - Private,Less than $1 million (USD),0,1,1,0
+42,data scientist,CA,4.5,142.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,0,0
+43,other scientist,NJ,3.5,82.5,Manufacturing,Company - Public,$2 to $5 billion (USD),0,0,0,1
+44,data scientist,IL,4.5,130.0,Real Estate,Company - Public,$2 to $5 billion (USD),1,1,1,0
+45,data scientist,DC,5.0,155.0,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,0,1
+46,data scientist,WA,4.0,184.5,Information Technology,Company - Public,$10+ billion (USD),1,1,1,0
+47,analyst,CO,3.5,29.5,Information Technology,Company - Private,$2 to $5 billion (USD),0,1,0,0
+48,other scientist,OH,5.0,86.5,Aerospace & Defense,Company - Private,$100 to $500 million (USD),0,0,0,0
+49,data scientist,IL,4.0,81.0,Manufacturing,Company - Public,$10+ billion (USD),0,0,0,0
+50,data scientist,FL,4.0,91.0,Business Services,Subsidiary or Business Segment,Unknown / Non-Applicable,1,1,1,0
+51,data scientist,MA,3.5,114.5,Insurance,Company - Private,$10+ billion (USD),1,0,0,0
+52,data scientist,AL,5.0,68.0,Aerospace & Defense,Company - Private,$100 to $500 million (USD),1,1,0,0
+53,data scientist,NY,4.0,115.0,Insurance,Company - Public,$10+ billion (USD),1,1,1,0
+54,data scientist,CA,4.0,109.5,Aerospace & Defense,Company - Public,$10+ billion (USD),0,1,1,0
+55,data scientist,NM,3.5,75.5,Biotech & Pharmaceuticals,Company - Public,$1 to $2 billion (USD),1,1,0,0
+56,data scientist,CA,4.5,154.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,0
+57,data scientist,MO,5.0,143.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0
+58,data scientist,MD,4.5,73.5,Finance,Company - Private,Unknown / Non-Applicable,0,1,0,0
+59,data scientist,TX,3.5,95.0,Real Estate,Company - Public,$1 to $2 billion (USD),1,1,1,1
+60,data scientist,OH,4.5,107.0,Mining & Metals,Subsidiary or Business Segment,Unknown / Non-Applicable,1,0,1,1
+61,data scientist,NY,4.5,115.0,Business Services,Company - Private,$10 to $25 million (USD),1,0,1,1
+62,data scientist,CA,4.0,139.5,Finance,Company - Public,$50 to $100 million (USD),0,0,1,0
+63,data scientist,WA,4.0,67.0,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0
+64,data scientist,PA,4.0,85.0,Retail,Company - Public,$5 to $10 billion (USD),1,0,1,0
+65,data scientist,MA,3.0,118.0,Biotech & Pharmaceuticals,Company - Private,$1 to $5 million (USD),1,1,1,0
+66,data scientist,GA,5.0,79.5,Information Technology,Company - Private,$25 to $50 million (USD),1,1,1,0
+67,data scientist,MA,3.5,56.5,Business Services,Company - Public,$100 to $500 million (USD),1,0,1,0
+68,data scientist,PA,3.5,128.5,Business Services,Company - Private,$5 to $10 million (USD),1,0,1,1
+69,other scientist,WA,4.0,97.5,Information Technology,Company - Public,Unknown / Non-Applicable,0,0,0,0
+70,data analitics,IN,4.5,66.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,0
+71,data scientist,IL,4.0,179.5,Business Services,Company - Public,$10+ billion (USD),1,1,1,0
+72,other scientist,MO,3.0,76.0,Business Services,Subsidiary or Business Segment,$50 to $100 million (USD),0,1,0,0
+73,data scientist,VA,4.0,112.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,0
+74,data scientist,PA,3.5,98.0,Mining & Metals,Company - Private,$1 to $2 billion (USD),1,0,0,0
+75,data scientist,WA,4.0,128.0,Information Technology,Company - Public,Unknown / Non-Applicable,0,0,1,1
+76,data scientist,CA,4.5,150.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,1
+77,other scientist,MA,2.0,87.5,Biotech & Pharmaceuticals,Company - Private,$10 to $25 million (USD),0,0,0,1
+78,data scientist,VA,3.5,110.0,Aerospace & Defense,Company - Private,$1 to $2 billion (USD),1,1,0,0
+79,data scientist,CA,4.5,113.5,Information Technology,Company - Private,$500 million to $1 billion (USD),1,1,0,0
+80,data scientist,CA,4.0,124.0,Health Care,Company - Private,$1 to $5 million (USD),1,0,1,0
+81,analyst,PA,5.0,56.5,Business Services,Company - Private,$25 to $50 million (USD),0,1,0,0
+82,data scientist,MD,4.5,130.0,Aerospace & Defense,Nonprofit Organization,$1 to $2 billion (USD),1,1,0,0
+83,analyst,IL,4.5,77.5,Information Technology,Company - Private,$10 to $25 million (USD),0,1,1,0
+84,data engineer,VA,4.0,87.0,Business Services,Company - Private,$50 to $100 million (USD),1,1,1,1
+85,analyst,WA,4.5,53.5,Business Services,Company - Private,$100 to $500 million (USD),0,1,0,0
+86,data scientist,TX,3.5,139.0,Retail,Company - Public,$10+ billion (USD),0,0,1,0
+87,data scientist,CA,4.0,114.0,Business Services,Company - Private,$25 to $50 million (USD),1,1,1,1
+88,data scientist,FL,4.5,85.5,Information Technology,Company - Private,$100 to $500 million (USD),1,1,1,0
+89,na,AL,4.5,48.0,Information Technology,Company - Private,$25 to $50 million (USD),0,1,1,0
+90,analyst,LA,3.5,48.0,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,1,0
+91,other scientist,CA,3.5,174.0,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),0,1,0,0
+92,data scientist,GA,4.0,85.0,Finance,Company - Public,$1 to $2 billion (USD),1,0,1,0
+93,data modeler,MD,5.0,106.5,Information Technology,Company - Private,$10 to $25 million (USD),0,0,0,0
+94,analyst,MD,4.5,72.5,Information Technology,Company - Private,$100 to $500 million (USD),0,1,0,0
+95,other scientist,MD,3.5,85.5,Information Technology,Subsidiary or Business Segment,$10+ billion (USD),0,0,0,0
+96,data scientist,VA,3.5,97.5,Government,Nonprofit Organization,$1 to $2 billion (USD),1,1,1,0
+97,data scientist,VA,4.0,99.0,Information Technology,Company - Private,$100 to $500 million (USD),1,1,0,0
+98,analyst,WI,3.5,56.5,Insurance,Company - Private,$2 to $5 billion (USD),0,1,1,0
+99,data scientist,MD,4.5,133.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,0
+100,data scientist,NY,4.0,121.0,Business Services,Company - Private,Unknown / Non-Applicable,1,0,0,0
+101,data scientist,NY,5.0,85.5,Business Services,Company - Private,Unknown / Non-Applicable,1,0,1,0
+102,data scientist,TX,4.5,87.5,Education,Subsidiary or Business Segment,Unknown / Non-Applicable,1,0,1,0
+103,data scientist,DC,4.5,237.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,0,0
+104,data engineer,NC,4.0,95.5,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,0
+105,data scientist,MI,3.5,104.5,Manufacturing,Company - Public,$5 to $10 billion (USD),1,1,1,1
+106,analyst,NJ,5.0,56.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,1,0
+107,analyst,AZ,4.5,55.0,Information Technology,Company - Private,$25 to $50 million (USD),0,1,1,0
+108,other scientist,NE,3.0,61.5,Health Care,Hospital,Unknown / Non-Applicable,0,1,0,0
+109,data scientist,CA,4.5,157.0,Information Technology,Company - Private,$100 to $500 million (USD),0,0,0,1
+110,data engineer,NJ,3.5,78.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0
+111,data scientist,MA,4.0,113.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,1,0
+112,data scientist,NY,5.0,140.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,0,0
+113,data scientist,CA,3.5,132.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,0,0
+114,data engineer,CA,4.0,108.0,Information Technology,Company - Public,$2 to $5 billion (USD),1,0,1,0
+115,data scientist,IN,5.0,80.5,Agriculture & Forestry,Company - Private,$50 to $100 million (USD),0,0,0,0
+116,data scientist,MD,3.0,107.5,Health Care,Company - Private,Unknown / Non-Applicable,1,0,0,0
+117,data engineer,MN,5.0,95.0,Business Services,Company - Private,$25 to $50 million (USD),0,0,1,1
+118,data scientist,CA,3.0,119.5,Health Care,Nonprofit Organization,Unknown / Non-Applicable,1,0,1,0
+119,data engineer,NC,3.5,134.0,Business Services,Company - Private,$1 to $2 billion (USD),0,0,1,1
+120,data scientist,MA,4.5,100.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0
+121,data scientist,OH,3.5,107.5,Media,Company - Public,$500 million to $1 billion (USD),1,0,1,0
+122,data engineer,DC,4.0,122.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,1
+123,data engineer,IL,4.5,92.5,Real Estate,Company - Public,$2 to $5 billion (USD),1,1,1,0
+124,analyst,MD,2.5,62.0,Business Services,Company - Private,$100 to $500 million (USD),0,1,1,0
+125,other scientist,AL,4.0,39.5,Business Services,Other Organization,$25 to $50 million (USD),0,0,0,0
+126,data scientist,CA,4.0,107.5,Manufacturing,Company - Private,$100 to $500 million (USD),0,1,0,0
+127,Data scientist project manager,MO,4.0,40.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1
+128,data scientist,VA,4.0,89.5,Information Technology,Company - Public,$10+ billion (USD),1,0,1,0
+129,data scientist,IL,4.5,81.0,Business Services,Company - Private,$50 to $100 million (USD),1,1,1,1
+130,data scientist,VA,4.0,147.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,0,1
+131,data scientist,TX,3.5,85.0,Finance,Company - Private,$100 to $500 million (USD),1,1,1,0
+132,other scientist,CA,3.0,81.5,Manufacturing,Company - Private,$1 to $2 billion (USD),0,1,0,0
+133,other scientist,CA,4.0,168.0,Biotech & Pharmaceuticals,Company - Public,$500 million to $1 billion (USD),0,1,0,0
+134,machine learning engineer,CO,4.5,100.5,Aerospace & Defense,Company - Private,Unknown / Non-Applicable,1,1,1,1
+135,data scientist,NY,3.5,97.0,Business Services,Company - Private,$100 to $500 million (USD),1,1,1,0
+136,data scientist,VA,4.5,85.0,Business Services,Company - Public,$1 to $2 billion (USD),0,0,1,0
+137,data scientist,CA,4.5,153.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,1
+138,data engineer,FL,5.0,132.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,0,0
+139,data engineer,IL,4.5,100.0,Information Technology,Company - Private,$10 to $25 million (USD),0,1,1,0
+140,data scientist,CO,4.0,105.0,Travel & Tourism,Company - Private,Unknown / Non-Applicable,1,0,1,0
+141,data engineer,UT,4.5,87.0,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,1,0,1
+142,analyst,CA,4.5,103.5,Real Estate,Company - Private,Unknown / Non-Applicable,0,1,1,0
+143,other scientist,PA,3.0,124.0,Education,College / University,Unknown / Non-Applicable,1,1,0,0
+144,data scientist,WA,4.0,67.0,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),1,0,0,0
+145,data engineer,DC,4.0,87.0,Information Technology,Company - Private,$2 to $5 billion (USD),0,0,0,0
+146,data scientist,IL,4.5,137.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,1
+147,data scientist,OH,4.0,100.0,Business Services,Company - Private,$100 to $500 million (USD),1,1,1,0
+148,data engineer,TN,4.0,106.5,Insurance,Nonprofit Organization,$5 to $10 billion (USD),0,1,1,0
+149,data scientist,WA,4.0,98.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0
+150,analyst,FL,5.0,61.0,Business Services,Company - Private,$100 to $500 million (USD),1,1,1,0
+151,data scientist,IN,4.5,106.5,Business Services,Company - Private,Unknown / Non-Applicable,1,0,1,1
+152,data engineer,MA,4.0,84.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0
+153,Data scientist project manager,NJ,3.5,109.5,Manufacturing,Company - Public,$2 to $5 billion (USD),1,1,0,0
+154,data scientist,MA,4.0,164.0,Insurance,Company - Private,$10+ billion (USD),1,0,1,1
+155,data scientist,CA,4.0,169.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,$10+ billion (USD),1,1,1,0
+156,data scientist,CA,4.0,142.0,Telecommunications,Company - Public,$2 to $5 billion (USD),1,1,0,1
+157,other scientist,MA,4.0,76.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,0
+158,data scientist,MD,4.0,107.0,Insurance,Company - Private,$500 million to $1 billion (USD),1,1,1,0
+159,data scientist,CA,3.5,171.5,Information Technology,Company - Public,$10+ billion (USD),1,0,1,1
+160,data scientist,TX,4.0,96.0,Insurance,Company - Private,Unknown / Non-Applicable,0,1,0,0
+161,data scientist,CA,4.5,142.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,1,0
+162,data engineer,UT,4.5,107.0,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,1,0,0
+163,other scientist,MA,3.5,145.0,Biotech & Pharmaceuticals,Company - Private,$1 to $2 billion (USD),1,1,0,0
+164,analyst,VA,3.0,61.5,Education,Nonprofit Organization,$25 to $50 million (USD),1,1,1,0
+165,other scientist,PA,4.0,42.0,Health Care,Nonprofit Organization,Unknown / Non-Applicable,0,0,0,0
+166,data scientist,WI,3.0,120.0,Finance,Government,$50 to $100 million (USD),1,0,1,0
+167,other scientist,MA,4.5,62.0,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),0,0,0,0
+168,data scientist,CA,4.0,150.5,Information Technology,Company - Public,$2 to $5 billion (USD),1,0,1,0
+169,Data scientist project manager,MI,4.5,87.5,Business Services,Company - Private,Unknown / Non-Applicable,0,1,1,0
+170,data engineer,FL,4.5,71.5,Business Services,Company - Public,$25 to $50 million (USD),1,1,1,1
+171,analyst,CA,4.0,51.5,Retail,Subsidiary or Business Segment,$100 to $500 million (USD),0,1,0,0
+172,other scientist,CA,4.0,151.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,0
+173,analyst,NJ,3.0,77.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0
+174,other scientist,MA,4.0,140.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,0
+175,data scientist,NJ,3.5,98.5,Insurance,Company - Private,$10 to $25 million (USD),0,1,1,0
+176,data scientist,CA,4.0,225.0,Information Technology,Company - Private,$5 to $10 million (USD),1,1,0,1
+177,other scientist,DE,4.0,56.5,Health Care,Nonprofit Organization,$100 to $500 million (USD),0,0,0,0
+178,other scientist,MA,4.0,161.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0
+179,data scientist,NY,3.5,147.0,Insurance,Company - Public,$1 to $2 billion (USD),1,0,1,1
+180,analyst,MO,4.5,61.0,"Oil, Gas, Energy & Utilities",Company - Private,$1 to $2 billion (USD),0,1,1,0
+181,machine learning engineer,PA,3.0,120.0,Education,College / University,Unknown / Non-Applicable,1,0,0,0
+182,data scientist,AZ,3.5,124.5,Finance,Company - Public,$500 million to $1 billion (USD),1,1,1,0
+183,data scientist,CA,4.0,148.0,Finance,Company - Private,$50 to $100 million (USD),1,0,0,0
+184,analyst,AL,5.0,59.0,Aerospace & Defense,Company - Private,$25 to $50 million (USD),1,1,0,0
+185,data scientist,MA,4.0,146.5,Insurance,Company - Public,$5 to $10 billion (USD),1,1,1,0
+186,other scientist,MA,3.0,91.5,Biotech & Pharmaceuticals,Company - Public,Unknown / Non-Applicable,0,1,0,0
+187,machine learning engineer,IL,3.0,133.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,0,1,1
+188,data scientist,UT,5.0,140.5,Biotech & Pharmaceuticals,Company - Private,$1 to $5 million (USD),1,0,0,1
+189,data engineer,LA,4.0,70.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,1,0
+190,other scientist,NY,3.5,84.5,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0
+191,na,MD,4.0,93.5,Information Technology,Company - Private,$5 to $10 million (USD),0,1,0,0
+192,other scientist,MA,4.5,134.5,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),0,0,0,0
+193,machine learning engineer,CA,4.0,181.0,Information Technology,Company - Private,$10 to $25 million (USD),1,0,1,0
+194,other scientist,NY,3.5,84.5,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0
+195,data engineer,CA,4.5,205.0,Information Technology,Company - Private,$50 to $100 million (USD),1,0,1,1
+196,analyst,CA,4.0,48.5,"Arts, Entertainment & Recreation",Company - Private,$100 to $500 million (USD),0,1,1,0
+197,other scientist,TX,4.0,44.5,Health Care,Hospital,$50 to $100 million (USD),0,0,0,1
+198,other scientist,IL,2.5,52.5,Manufacturing,Company - Private,$100 to $500 million (USD),0,0,0,0
+199,machine learning engineer,PA,3.0,124.0,Education,College / University,Unknown / Non-Applicable,0,0,0,0
+200,Data scientist project manager,CA,3.5,64.0,Health Care,Nonprofit Organization,$500 million to $1 billion (USD),0,0,1,0
+201,data engineer,TN,3.0,98.0,Retail,Company - Private,$10+ billion (USD),1,0,1,0
+202,other scientist,DE,4.0,56.5,Health Care,Nonprofit Organization,$100 to $500 million (USD),0,0,0,0
+203,other scientist,WI,3.5,54.0,Manufacturing,Company - Private,Unknown / Non-Applicable,0,0,0,0
+204,other scientist,MD,3.0,81.0,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,1,0,0
+205,data engineer,IL,3.5,107.5,Transportation & Logistics,Company - Public,$2 to $5 billion (USD),0,0,1,0
+206,data scientist,IL,4.0,112.5,Transportation & Logistics,Company - Private,Unknown / Non-Applicable,1,1,1,1
+207,data scientist,VA,4.0,89.0,Aerospace & Defense,Company - Public,$10+ billion (USD),1,1,1,0
+208,data scientist,WI,5.0,100.5,Insurance,Company - Private,$1 to $2 billion (USD),0,0,0,0
+209,analyst,NY,4.0,65.0,Travel & Tourism,Company - Private,$2 to $5 billion (USD),0,1,1,0
+210,other scientist,LA,3.5,41.5,Government,Government,Unknown / Non-Applicable,0,0,0,0
+211,data scientist,TX,4.5,72.5,Business Services,Subsidiary or Business Segment,Unknown / Non-Applicable,1,1,1,1
+212,analyst,FL,5.0,61.0,Business Services,Company - Private,$100 to $500 million (USD),1,1,1,0
+213,Data scientist project manager,NJ,3.5,109.5,Manufacturing,Company - Public,$2 to $5 billion (USD),1,1,0,0
+214,data engineer,MA,4.0,84.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0
+215,data scientist,IL,3.5,87.5,Business Services,Company - Private,$10 to $25 million (USD),0,0,1,0
+216,analyst,CA,3.5,92.5,Media,Company - Public,$10+ billion (USD),1,1,1,0
+217,data scientist,VA,3.5,81.5,Government,Nonprofit Organization,$1 to $2 billion (USD),1,0,0,0
+218,analyst,OH,4.5,79.0,Transportation & Logistics,Company - Private,Unknown / Non-Applicable,0,0,1,0
+219,data scientist,MA,4.0,164.0,Insurance,Company - Private,$10+ billion (USD),1,0,1,1
+220,data scientist,CA,4.0,169.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,$10+ billion (USD),1,1,1,0
+221,data scientist,CA,4.0,142.0,Telecommunications,Company - Public,$2 to $5 billion (USD),1,1,0,1
+222,analyst,CA,3.0,47.5,Non-Profit,Nonprofit Organization,$50 to $100 million (USD),0,1,0,0
+223,other scientist,MA,4.0,76.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,0
+224,analyst,CA,3.5,69.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0
+225,analyst,ID,4.0,49.0,Information Technology,Company - Private,$50 to $100 million (USD),1,1,1,0
+226,data scientist,CA,3.5,171.5,Information Technology,Company - Public,$10+ billion (USD),1,0,1,1
+227,data scientist,MD,4.0,107.0,Insurance,Company - Private,$500 million to $1 billion (USD),1,1,1,0
+228,analyst,NJ,4.0,59.0,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,0,0
+229,data scientist,IN,3.5,88.5,Information Technology,Company - Private,$25 to $50 million (USD),0,0,0,1
+230,data engineer,UT,4.5,107.0,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,1,0,0
+231,data scientist,MA,4.0,86.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,1,0,1
+232,data scientist,KY,4.5,84.0,Transportation & Logistics,Nonprofit Organization,$10 to $25 million (USD),1,1,1,0
+233,data analitics,NY,5.0,114.5,Business Services,Company - Private,$50 to $100 million (USD),1,1,1,0
+234,other scientist,MA,3.5,145.0,Biotech & Pharmaceuticals,Company - Private,$1 to $2 billion (USD),1,1,0,0
+235,data engineer,TN,4.5,88.0,Information Technology,Company - Public,$100 to $500 million (USD),1,1,1,1
+236,data engineer,IL,4.5,100.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,1
+237,analyst,VA,3.0,61.5,Education,Nonprofit Organization,$25 to $50 million (USD),1,1,1,0
+238,data scientist,OR,2.5,96.5,Business Services,Company - Public,$1 to $2 billion (USD),1,0,1,0
+239,analyst,MN,4.5,76.0,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,0
+240,data scientist,NY,4.0,15.5,Business Services,Company - Private,$100 to $500 million (USD),0,1,0,0
+241,data scientist,TX,4.5,83.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,0
+242,data scientist,WI,3.0,120.0,Finance,Government,$50 to $100 million (USD),1,0,1,0
+243,data scientist,CA,4.0,163.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,$10+ billion (USD),0,1,1,0
+244,analyst,RI,3.5,100.0,Insurance,Nonprofit Organization,Unknown / Non-Applicable,0,0,1,1
+245,other scientist,NE,4.0,52.5,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,1,0,0
+246,other scientist,PA,4.0,42.0,Health Care,Nonprofit Organization,Unknown / Non-Applicable,0,0,0,0
+247,analyst,DC,3.5,50.0,Health Care,Nonprofit Organization,Unknown / Non-Applicable,0,1,1,0
+248,data engineer,TX,3.5,93.0,Business Services,Company - Private,$50 to $100 million (USD),1,0,1,1
+249,data scientist,OH,3.0,94.5,Insurance,Company - Private,$2 to $5 billion (USD),1,0,1,0
+250,data scientist,CA,4.0,150.5,Information Technology,Company - Public,$2 to $5 billion (USD),1,0,1,0
+251,data scientist,NC,4.0,102.0,Insurance,Company - Public,$5 to $10 billion (USD),1,1,1,1
+252,other scientist,MA,4.5,62.0,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),0,0,0,0
+253,Data scientist project manager,MI,4.5,87.5,Business Services,Company - Private,Unknown / Non-Applicable,0,1,1,0
+254,data scientist,CT,4.0,84.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,1
+255,data scientist,VA,4.0,143.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,0,1
+256,data scientist,PA,3.5,155.0,Business Services,Company - Private,$5 to $10 million (USD),1,1,0,1
+257,data engineer,FL,4.5,71.5,Business Services,Company - Public,$25 to $50 million (USD),1,1,1,1
+258,data scientist,CA,4.0,108.0,Insurance,Company - Private,$10 to $25 million (USD),1,0,1,0
+259,other scientist,CA,4.0,151.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,0
+260,analyst,CA,4.0,51.5,Retail,Subsidiary or Business Segment,$100 to $500 million (USD),0,1,0,0
+261,other scientist,MA,4.0,140.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,0
+262,analyst,NJ,3.0,77.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0
+263,analyst,ID,4.5,63.5,Finance,Company - Private,$50 to $100 million (USD),0,1,1,0
+264,data scientist,CA,4.0,109.0,Information Technology,Company - Private,Less than $1 million (USD),1,0,1,0
+265,data scientist,TN,3.5,96.0,Aerospace & Defense,Company - Public,$500 million to $1 billion (USD),1,0,0,0
+266,data scientist,CA,4.0,225.0,Information Technology,Company - Private,$5 to $10 million (USD),1,1,0,1
+267,data engineer,CA,3.5,101.0,Finance,Company - Public,$500 million to $1 billion (USD),1,1,1,1
+268,data scientist,NJ,3.5,98.5,Insurance,Company - Private,$10 to $25 million (USD),0,1,1,0
+269,data engineer,IA,4.0,77.5,Manufacturing,Company - Private,$1 to $2 billion (USD),0,1,1,0
+270,other scientist,MA,4.0,161.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0
+271,other scientist,DE,4.0,56.5,Health Care,Nonprofit Organization,$100 to $500 million (USD),0,0,0,0
+272,data scientist,NY,3.5,147.0,Insurance,Company - Public,$1 to $2 billion (USD),1,0,1,1
+273,data scientist,CA,3.5,90.0,Information Technology,Company - Public,Unknown / Non-Applicable,1,1,1,0
+274,analyst,NJ,4.5,58.0,Finance,Company - Public,$5 to $10 billion (USD),0,0,1,1
+275,analyst,MO,4.5,61.0,"Oil, Gas, Energy & Utilities",Company - Private,$1 to $2 billion (USD),0,1,1,0
+276,machine learning engineer,PA,3.0,120.0,Education,College / University,Unknown / Non-Applicable,1,0,0,0
+277,data scientist,NY,4.0,128.0,Retail,Company - Public,$500 million to $1 billion (USD),1,0,0,0
+278,data scientist,OR,3.5,99.5,Finance,Company - Private,$100 to $500 million (USD),1,1,1,1
+279,data scientist,MI,4.0,96.0,Real Estate,Company - Private,$500 million to $1 billion (USD),1,0,1,0
+280,data scientist,DC,2.5,101.0,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),1,1,1,0
+281,data scientist,CA,4.0,148.0,Finance,Company - Private,$50 to $100 million (USD),1,0,0,0
+282,data scientist,VA,4.0,142.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,1
+283,data scientist,CA,4.5,169.0,Education,Company - Private,Unknown / Non-Applicable,0,1,1,1
+284,data scientist,AZ,3.5,124.5,Finance,Company - Public,$500 million to $1 billion (USD),1,1,1,0
+285,analyst,AL,5.0,59.0,Aerospace & Defense,Company - Private,$25 to $50 million (USD),1,1,0,0
+286,data analitics,CA,4.5,52.5,Business Services,Company - Private,$10 to $25 million (USD),1,0,1,0
+287,data engineer,TX,5.0,75.5,Information Technology,Company - Private,$50 to $100 million (USD),0,0,1,0
+288,data scientist,NY,4.0,139.0,Insurance,Company - Public,$10+ billion (USD),1,1,1,0
+289,data engineer,MA,4.0,102.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,1,1,1
+290,other scientist,SC,4.5,60.5,Business Services,Company - Private,$25 to $50 million (USD),0,0,0,0
+291,data scientist,MA,4.0,146.5,Insurance,Company - Public,$5 to $10 billion (USD),1,1,1,0
+292,other scientist,CA,4.0,125.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,$10+ billion (USD),0,1,0,0
+293,analyst,MA,4.0,81.0,Insurance,Company - Private,$10+ billion (USD),1,0,1,0
+294,machine learning engineer,IL,3.0,133.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,0,1,1
+295,analyst,DC,3.5,77.0,Information Technology,Subsidiary or Business Segment,$10+ billion (USD),0,1,1,0
+296,data engineer,VA,4.5,92.0,Business Services,Company - Public,$1 to $2 billion (USD),0,0,1,0
+297,data scientist,MA,4.0,121.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0
+298,data engineer,CA,4.0,162.5,Information Technology,Company - Public,$2 to $5 billion (USD),1,1,1,0
+299,other scientist,TX,4.0,60.0,Business Services,Nonprofit Organization,$500 million to $1 billion (USD),0,0,0,0
+300,na,CA,4.0,87.5,-1,Nonprofit Organization,Unknown / Non-Applicable,1,1,1,0
+301,data engineer,IN,4.5,90.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,0
+302,data scientist,MA,4.0,114.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,0,0
+303,data scientist,CA,4.0,121.0,Telecommunications,Company - Public,$2 to $5 billion (USD),1,1,1,0
+304,data scientist,TX,2.5,110.0,Business Services,Subsidiary or Business Segment,$50 to $100 million (USD),0,0,0,0
+305,other scientist,MA,3.0,91.5,Biotech & Pharmaceuticals,Company - Public,Unknown / Non-Applicable,0,1,0,0
+306,analyst,VA,4.5,70.5,Business Services,Company - Public,$1 to $2 billion (USD),0,0,0,0
+307,data engineer,LA,4.0,70.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,1,0
+308,data scientist,WA,4.0,76.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),1,0,0,0
+309,data engineer,MA,4.0,92.0,Insurance,Company - Private,$10+ billion (USD),1,1,0,0
+310,data scientist,UT,5.0,140.5,Biotech & Pharmaceuticals,Company - Private,$1 to $5 million (USD),1,0,0,1
+311,data scientist,VA,3.5,82.0,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,1,0
+312,other scientist,NY,3.5,84.5,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0
+313,other scientist,MA,4.5,134.5,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),0,0,0,0
+314,data scientist,CA,3.5,164.5,Business Services,Company - Private,Unknown / Non-Applicable,0,0,0,0
+315,analyst,FL,3.5,44.0,Telecommunications,Company - Public,$50 to $100 million (USD),0,0,0,0
+316,na,MD,4.0,93.5,Information Technology,Company - Private,$5 to $10 million (USD),0,1,0,0
+317,data engineer,VA,4.5,109.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,0
+318,data engineer,TX,4.0,149.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,0,1
+319,data engineer,DC,3.5,65.5,Business Services,Company - Private,Unknown / Non-Applicable,0,1,1,1
+320,data scientist,NC,3.5,124.5,Insurance,Company - Public,Unknown / Non-Applicable,1,1,0,0
+321,data engineer,CA,3.0,114.0,Business Services,Company - Private,Unknown / Non-Applicable,1,0,1,0
+322,analyst,PA,4.0,49.0,Finance,Nonprofit Organization,Unknown / Non-Applicable,1,0,1,0
+323,other scientist,NY,3.5,84.5,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0
+324,analyst,VA,4.0,71.0,Information Technology,Company - Private,$100 to $500 million (USD),0,1,1,0
+325,director,MA,4.0,101.0,Insurance,Company - Private,$10+ billion (USD),0,0,0,0
+326,data scientist,CA,3.5,107.0,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,0,1
+327,data scientist,MA,5.0,112.5,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,1,0,0
+328,machine learning engineer,CA,4.0,181.0,Information Technology,Company - Private,$10 to $25 million (USD),1,0,1,0
+329,analyst,IL,4.0,61.0,Information Technology,Company - Public,$5 to $10 billion (USD),1,0,1,0
+330,data engineer,CA,4.5,205.0,Information Technology,Company - Private,$50 to $100 million (USD),1,0,1,1
+331,other scientist,KY,3.5,103.5,Manufacturing,Company - Private,$10+ billion (USD),0,0,0,0
+332,Data scientist project manager,MA,4.0,63.0,Insurance,Company - Private,$10+ billion (USD),0,1,0,0
+333,data analitics,CT,3.0,62.5,Information Technology,Company - Public,$10+ billion (USD),0,1,0,0
+334,data engineer,CA,3.5,94.5,Health Care,Company - Private,Unknown / Non-Applicable,1,1,1,1
+335,analyst,CA,4.0,48.5,"Arts, Entertainment & Recreation",Company - Private,$100 to $500 million (USD),0,1,1,0
+336,other scientist,MA,3.5,154.5,Biotech & Pharmaceuticals,Company - Private,$1 to $2 billion (USD),1,1,0,0
+337,other scientist,TX,4.0,44.5,Health Care,Hospital,$50 to $100 million (USD),0,0,0,1
+338,machine learning engineer,KS,4.0,87.0,Finance,Company - Public,$500 million to $1 billion (USD),1,1,1,0
+339,other scientist,IL,2.5,52.5,Manufacturing,Company - Private,$100 to $500 million (USD),0,0,0,0
+340,data engineer,NY,3.5,64.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1
+341,other scientist,CA,2.5,111.5,Biotech & Pharmaceuticals,Company - Public,$25 to $50 million (USD),0,1,0,0
+342,data engineer,MA,4.0,154.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,1,1
+343,machine learning engineer,PA,3.0,124.0,Education,College / University,Unknown / Non-Applicable,0,0,0,0
+344,data scientist,IL,4.5,128.5,Business Services,Company - Private,$50 to $100 million (USD),1,1,1,1
+345,other scientist,CO,4.0,65.0,Health Care,Hospital,$100 to $500 million (USD),0,0,0,0
+346,Data scientist project manager,CA,3.5,64.0,Health Care,Nonprofit Organization,$500 million to $1 billion (USD),0,0,1,0
+347,data engineer,TN,3.0,98.0,Retail,Company - Private,$10+ billion (USD),1,0,1,0
+348,data scientist,CA,4.5,142.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,0,0
+349,data scientist,NY,4.0,137.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,0,0
+350,data engineer,CO,4.0,99.0,Insurance,Nonprofit Organization,$500 million to $1 billion (USD),1,0,1,1
+351,other scientist,WI,3.5,54.0,Manufacturing,Company - Private,Unknown / Non-Applicable,0,0,0,0
+352,data scientist,MA,4.5,139.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,1,0
+353,data engineer,MD,3.5,109.0,Information Technology,Company - Private,$25 to $50 million (USD),0,0,0,1
+354,data scientist,IL,3.5,254.0,Insurance,Company - Private,$10+ billion (USD),1,0,0,0
+355,other scientist,CA,3.0,73.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,Unknown / Non-Applicable,0,0,0,0
+356,other scientist,MD,3.0,81.0,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,1,0,0
+357,other scientist,DE,4.0,56.5,Health Care,Nonprofit Organization,$100 to $500 million (USD),0,0,0,0
+358,other scientist,NC,3.5,99.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0
+359,analyst,OH,3.5,45.5,Insurance,Company - Private,$500 million to $1 billion (USD),0,0,0,0
+360,data engineer,IN,4.5,122.5,Business Services,Company - Private,$25 to $50 million (USD),1,0,1,1
+361,data scientist,IL,4.0,140.0,Finance,Company - Public,$1 to $2 billion (USD),1,1,1,0
+362,data scientist,VA,3.5,77.5,Government,Nonprofit Organization,$1 to $2 billion (USD),0,0,0,0
+363,other scientist,MA,3.5,55.0,"Construction, Repair & Maintenance",Company - Private,Unknown / Non-Applicable,0,1,0,0
+364,other scientist,NC,3.5,117.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0
+365,other scientist,CA,2.5,70.5,Biotech & Pharmaceuticals,Company - Private,$50 to $100 million (USD),0,0,0,0
+366,Data scientist project manager,CA,5.0,61.5,Information Technology,Company - Private,$25 to $50 million (USD),0,1,1,0
+367,other scientist,NY,3.0,70.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,0
+368,other scientist,GA,3.0,80.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,0
+369,data engineer,MA,3.5,90.0,Insurance,Company - Private,$100 to $500 million (USD),0,1,1,0
+370,other scientist,MA,4.0,120.0,-1,Company - Private,Unknown / Non-Applicable,0,1,0,0
+371,other scientist,PA,3.0,73.5,Education,College / University,Unknown / Non-Applicable,0,1,0,0
+372,data scientist,FL,4.0,91.0,Business Services,Subsidiary or Business Segment,Unknown / Non-Applicable,1,1,1,0
+373,data scientist,DC,5.0,155.0,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,0,1
+374,na,MA,4.0,129.5,Insurance,Company - Private,$10+ billion (USD),1,1,1,1
+375,data scientist,NY,4.0,167.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,1
+376,analyst,WI,4.0,60.0,Finance,Company - Public,$1 to $2 billion (USD),0,1,0,1
+377,data scientist,CA,4.0,180.0,Finance,Company - Private,$50 to $100 million (USD),1,1,1,0
+378,analyst,NY,4.0,65.0,Travel & Tourism,Company - Private,$2 to $5 billion (USD),0,1,1,0
+379,data engineer,NC,4.5,112.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,0,1
+380,analyst,NY,2.0,87.5,Retail,Company - Private,$100 to $500 million (USD),1,1,1,0
+381,data modeler,IN,3.5,51.5,Insurance,Company - Private,$10+ billion (USD),1,1,1,0
+382,other scientist,CA,5.0,51.0,Business Services,Company - Private,$10 to $25 million (USD),0,1,0,0
+383,data scientist,MA,3.5,62.5,Finance,Company - Private,$10+ billion (USD),1,1,1,0
+384,data engineer,AZ,3.5,100.0,Health Care,Company - Public,Unknown / Non-Applicable,0,0,1,0
+385,data engineer,VA,4.5,85.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,1
+386,data scientist,FL,4.0,122.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,1
+387,data analitics,IL,4.0,66.5,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,0
+388,na,MO,5.0,70.5,Finance,Company - Private,Unknown / Non-Applicable,0,1,1,0
+389,data engineer,TX,5.0,138.5,Business Services,Company - Private,$10 to $25 million (USD),1,0,1,0
+390,data scientist,MA,3.5,107.5,Business Services,Company - Private,$100 to $500 million (USD),0,1,1,0
+391,other scientist,MA,4.0,120.5,Biotech & Pharmaceuticals,Company - Public,$50 to $100 million (USD),0,0,0,0
+392,other scientist,MD,3.0,81.0,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,0,0,0
+393,other scientist,KY,3.5,103.5,Manufacturing,Company - Private,$10+ billion (USD),0,0,0,0
+394,data engineer,IL,3.5,107.5,Transportation & Logistics,Company - Public,$2 to $5 billion (USD),0,0,1,0
+395,data engineer,CA,4.0,162.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,1
+396,data scientist,CA,3.5,68.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,1,0,0
+397,data scientist,OH,3.5,110.5,Insurance,Company - Public,$5 to $10 billion (USD),0,1,1,0
+398,data scientist,IL,4.0,81.0,Manufacturing,Company - Public,$10+ billion (USD),0,0,0,0
+399,data scientist,IL,4.5,130.0,Real Estate,Company - Public,$2 to $5 billion (USD),1,1,1,0
+400,data engineer,IA,4.0,115.5,Insurance,Subsidiary or Business Segment,$100 to $500 million (USD),1,1,1,0
+401,data scientist,WA,4.0,80.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0
+402,analyst,IA,5.0,43.0,Finance,Company - Private,$100 to $500 million (USD),0,1,1,0
+403,director,MA,4.5,140.0,Biotech & Pharmaceuticals,Company - Public,Unknown / Non-Applicable,0,1,0,0
+404,other scientist,MA,4.0,120.0,-1,Company - Private,Unknown / Non-Applicable,0,0,0,0
+405,analyst,PA,3.0,66.5,Insurance,Company - Private,$5 to $10 billion (USD),0,1,1,0
+406,data engineer,CA,5.0,94.5,Business Services,Company - Private,$1 to $5 million (USD),1,0,0,1
+407,data scientist,WA,4.0,119.0,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0
+408,other scientist,NE,3.5,51.5,Health Care,Nonprofit Organization,$10+ billion (USD),0,0,0,0
+409,analyst,TN,3.0,27.5,Finance,Company - Public,$2 to $5 billion (USD),0,1,0,0
+410,data scientist,IL,3.5,194.5,Insurance,Company - Private,$10+ billion (USD),1,0,0,0
+411,other scientist,TX,4.0,71.5,Business Services,Nonprofit Organization,$500 million to $1 billion (USD),1,1,1,1
+412,data scientist,TX,4.0,105.5,Education,College / University,Unknown / Non-Applicable,1,0,0,1
+413,other scientist,NC,3.5,74.0,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0
+414,analyst,AL,4.0,62.5,Aerospace & Defense,Company - Public,$10+ billion (USD),0,1,0,0
+415,other scientist,NC,4.5,65.5,Business Services,Nonprofit Organization,$500 million to $1 billion (USD),0,0,0,0
+416,data scientist,NJ,4.0,161.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1
+417,analyst,PA,2.5,72.5,Biotech & Pharmaceuticals,Other Organization,$100 to $500 million (USD),0,1,1,0
+418,data engineer,CA,4.0,139.0,Information Technology,Company - Public,$10 to $25 million (USD),1,1,0,1
+419,data engineer,CA,4.0,136.5,Information Technology,Company - Private,$10 to $25 million (USD),0,0,1,0
+420,data scientist,NY,4.0,74.5,Travel & Tourism,Company - Private,$2 to $5 billion (USD),1,0,0,0
+421,other scientist,NC,3.5,80.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0
+422,data scientist,NM,3.5,75.5,Biotech & Pharmaceuticals,Company - Public,$1 to $2 billion (USD),1,1,0,0
+423,data scientist,MO,5.0,143.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0
+424,data scientist,VA,5.0,101.0,Aerospace & Defense,Company - Private,$10 to $25 million (USD),1,0,1,0
+425,data engineer,MA,4.0,92.0,Insurance,Company - Private,$10+ billion (USD),1,1,0,0
+426,data scientist,WA,4.0,76.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),1,0,0,0
+427,data scientist,UT,5.0,140.5,Biotech & Pharmaceuticals,Company - Private,$1 to $5 million (USD),1,0,0,1
+428,data scientist,NJ,4.0,116.5,Finance,Company - Public,$10+ billion (USD),0,1,1,0
+429,machine learning engineer,CA,5.0,232.5,Information Technology,Subsidiary or Business Segment,Unknown / Non-Applicable,1,0,1,0
+430,data scientist,CA,3.5,120.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0
+431,data scientist,VA,3.5,82.0,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,1,0
+432,other scientist,NY,3.5,84.5,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0
+433,data scientist,CA,3.0,153.0,Information Technology,Company - Public,Unknown / Non-Applicable,1,0,1,1
+434,data scientist,CA,3.5,127.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0
+435,data scientist,CA,5.0,85.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0
+436,data scientist,NY,3.0,76.5,Business Services,Company - Public,$1 to $2 billion (USD),1,1,1,0
+437,data scientist,NY,3.5,128.0,Media,Subsidiary or Business Segment,$500 million to $1 billion (USD),1,0,1,0
+438,data engineer,PA,3.5,91.5,Business Services,Company - Private,$5 to $10 million (USD),1,1,1,1
+439,other scientist,MA,4.5,134.5,Biotech & Pharmaceuticals,Company - Public,$100 to $500 million (USD),0,0,0,0
+440,data scientist,CA,3.5,164.5,Business Services,Company - Private,Unknown / Non-Applicable,0,0,0,0
+441,na,MD,4.0,93.5,Information Technology,Company - Private,$5 to $10 million (USD),0,1,0,0
+442,analyst,FL,3.5,44.0,Telecommunications,Company - Public,$50 to $100 million (USD),0,0,0,0
+443,data engineer,TX,4.0,149.5,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,0,1
+444,data engineer,DC,3.5,65.5,Business Services,Company - Private,Unknown / Non-Applicable,0,1,1,1
+445,data engineer,VA,4.5,109.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,0
+446,data engineer,CA,4.0,177.0,Information Technology,Subsidiary or Business Segment,$50 to $100 million (USD),1,0,1,1
+447,data scientist,VA,5.0,107.0,Aerospace & Defense,Company - Private,$100 to $500 million (USD),1,1,1,0
+448,data scientist,CA,4.5,154.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,0
+449,data scientist,CA,4.0,113.5,Accounting & Legal,Company - Private,Less than $1 million (USD),1,0,1,0
+450,data scientist,NC,3.5,124.5,Insurance,Company - Public,Unknown / Non-Applicable,1,1,0,0
+451,data scientist,CA,2.5,143.5,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,1,1,0
+452,data scientist,CA,4.0,113.5,Information Technology,Company - Private,Less than $1 million (USD),1,0,1,0
+453,data scientist,VA,3.5,101.5,Aerospace & Defense,Company - Public,$10+ billion (USD),1,0,0,1
+454,analyst,NY,4.0,73.0,Manufacturing,Subsidiary or Business Segment,$2 to $5 billion (USD),0,1,1,1
+455,data scientist,NY,3.5,80.5,Business Services,Company - Public,$2 to $5 billion (USD),1,0,1,1
+456,data scientist,NY,4.0,110.5,-1,Company - Private,Unknown / Non-Applicable,1,0,1,0
+457,data engineer,CA,3.0,114.0,Business Services,Company - Private,Unknown / Non-Applicable,1,0,1,0
+458,data scientist,CA,3.5,139.5,Consumer Services,Company - Private,$5 to $10 million (USD),1,0,1,0
+459,data scientist,NY,5.0,145.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0
+460,data scientist,NY,4.0,87.0,Finance,Company - Private,$100 to $500 million (USD),0,1,0,0
+461,data scientist,MA,4.5,100.5,Finance,Company - Private,$50 to $100 million (USD),0,1,1,0
+462,data scientist,NY,4.0,147.0,Information Technology,Company - Public,$10+ billion (USD),1,1,1,0
+463,data engineer,NY,4.0,110.5,Insurance,Company - Private,$100 to $500 million (USD),1,1,1,0
+464,analyst,PA,4.0,49.0,Finance,Nonprofit Organization,Unknown / Non-Applicable,1,0,1,0
+465,data scientist,MA,5.0,94.0,Business Services,Company - Private,$5 to $10 million (USD),1,0,1,1
+466,data scientist,NY,4.5,123.5,Information Technology,Company - Public,$500 million to $1 billion (USD),1,0,1,1
+467,other scientist,NY,3.5,84.5,Health Care,Hospital,$500 million to $1 billion (USD),0,0,0,0
+468,analyst,VA,4.0,71.0,Information Technology,Company - Private,$100 to $500 million (USD),0,1,1,0
+469,data engineer,OR,4.0,73.0,Information Technology,Company - Public,Unknown / Non-Applicable,0,0,1,0
+470,director,MA,4.0,101.0,Insurance,Company - Private,$10+ billion (USD),0,0,0,0
+471,machine learning engineer,CA,4.0,181.0,Information Technology,Company - Private,$10 to $25 million (USD),1,0,1,0
+472,data scientist,CA,4.0,109.5,Aerospace & Defense,Company - Public,$10+ billion (USD),0,1,1,0
+473,data scientist,WA,4.0,184.5,Information Technology,Company - Public,$10+ billion (USD),1,1,1,0
+474,data scientist,NY,4.0,165.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,0
+475,analyst,IL,4.0,61.0,Information Technology,Company - Public,$5 to $10 billion (USD),1,0,1,0
+476,data engineer,CA,4.5,205.0,Information Technology,Company - Private,$50 to $100 million (USD),1,0,1,1
+477,analyst,NY,3.5,59.5,Education,School / School District,$100 to $500 million (USD),1,1,1,0
+478,other scientist,KY,3.5,103.5,Manufacturing,Company - Private,$10+ billion (USD),0,0,0,0
+479,data analitics,CT,3.0,62.5,Information Technology,Company - Public,$10+ billion (USD),0,1,0,0
+480,Data scientist project manager,MA,4.0,63.0,Insurance,Company - Private,$10+ billion (USD),0,1,0,0
+481,analyst,NY,4.0,66.0,Health Care,Company - Private,$10 to $25 million (USD),0,1,0,0
+482,data engineer,CA,3.5,94.5,Health Care,Company - Private,Unknown / Non-Applicable,1,1,1,1
+483,data scientist,NY,4.5,75.5,Education,Company - Private,Unknown / Non-Applicable,1,0,1,1
+484,machine learning engineer,VA,4.0,87.0,Aerospace & Defense,Company - Public,$100 to $500 million (USD),1,0,0,0
+485,data scientist,MD,4.0,140.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,1,0,0
+486,data scientist,MD,4.0,86.0,Information Technology,Company - Private,$25 to $50 million (USD),1,1,0,0
+487,data scientist,CA,4.5,116.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0
+488,other scientist,MA,3.5,154.5,Biotech & Pharmaceuticals,Company - Private,$1 to $2 billion (USD),1,1,0,0
+489,machine learning engineer,KS,4.0,87.0,Finance,Company - Public,$500 million to $1 billion (USD),1,1,1,0
+490,analyst,CA,4.0,48.5,"Arts, Entertainment & Recreation",Company - Private,$100 to $500 million (USD),0,1,1,0
+491,data engineer,TX,3.5,80.0,Information Technology,Company - Private,$1 to $2 billion (USD),1,1,1,0
+492,other scientist,TX,4.0,44.5,Health Care,Hospital,$50 to $100 million (USD),0,0,0,1
+493,other scientist,IL,2.5,52.5,Manufacturing,Company - Private,$100 to $500 million (USD),0,0,0,0
+494,data scientist,CA,4.0,173.0,Aerospace & Defense,Company - Public,$10+ billion (USD),1,0,0,0
+495,data engineer,AZ,3.5,68.5,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,0,0,0
+496,data scientist,NY,4.5,172.0,Finance,Company - Private,Unknown / Non-Applicable,0,0,0,0
+497,data scientist,MA,3.5,114.5,Insurance,Company - Private,$10+ billion (USD),1,0,0,0
+498,other scientist,MD,4.0,95.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0
+499,data scientist,MA,3.5,69.5,Government,Nonprofit Organization,$1 to $2 billion (USD),1,1,1,0
+500,data engineer,NY,3.5,64.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1
+501,other scientist,CA,2.5,111.5,Biotech & Pharmaceuticals,Company - Public,$25 to $50 million (USD),0,1,0,0
+502,data scientist,NY,4.0,97.5,Consumer Services,Company - Private,Unknown / Non-Applicable,1,1,1,0
+503,data engineer,MA,4.0,154.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,1,1
+504,machine learning engineer,PA,3.0,124.0,Education,College / University,Unknown / Non-Applicable,0,0,0,0
+505,data scientist,NY,3.5,95.0,Health Care,Company - Private,Unknown / Non-Applicable,1,0,1,1
+506,data scientist,IL,4.5,128.5,Business Services,Company - Private,$50 to $100 million (USD),1,1,1,1
+507,data scientist,CA,3.5,194.0,Information Technology,Subsidiary or Business Segment,Unknown / Non-Applicable,0,1,0,1
+508,data scientist,NY,3.5,104.5,Business Services,Company - Public,Unknown / Non-Applicable,1,1,1,1
+509,other scientist,CO,4.0,65.0,Health Care,Hospital,$100 to $500 million (USD),0,0,0,0
+510,data engineer,NC,4.5,85.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0
+511,analyst,UT,4.5,50.0,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,1,1,1
+512,data engineer,CA,3.5,113.0,Media,Company - Public,$10+ billion (USD),1,1,1,1
+513,other scientist,MA,4.0,90.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,1
+514,data scientist,CA,4.5,153.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,0
+515,analyst,CA,3.5,123.5,Business Services,Company - Public,$2 to $5 billion (USD),0,1,1,0
+516,analyst,NY,4.0,47.0,Information Technology,Company - Private,$10 to $25 million (USD),0,0,1,0
+517,Data scientist project manager,CA,3.5,64.0,Health Care,Nonprofit Organization,$500 million to $1 billion (USD),0,0,1,0
+518,data scientist,CA,4.0,162.0,Information Technology,Company - Public,$5 to $10 billion (USD),1,1,1,0
+519,data scientist,NY,4.0,137.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,0,0
+520,data engineer,TN,3.0,98.0,Retail,Company - Private,$10+ billion (USD),1,0,1,0
+521,data scientist,NY,4.0,115.0,Insurance,Company - Public,$10+ billion (USD),1,1,1,0
+522,data scientist,CO,3.5,133.5,Biotech & Pharmaceuticals,Company - Public,$1 to $2 billion (USD),1,1,0,0
+523,data engineer,CO,4.0,99.0,Insurance,Nonprofit Organization,$500 million to $1 billion (USD),1,0,1,1
+524,other scientist,WI,3.5,54.0,Manufacturing,Company - Private,Unknown / Non-Applicable,0,0,0,0
+525,data engineer,TN,3.5,109.0,Health Care,Company - Private,Unknown / Non-Applicable,0,1,0,1
+526,data engineer,MD,3.5,109.0,Information Technology,Company - Private,$25 to $50 million (USD),0,0,0,1
+527,data scientist,MA,4.5,139.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,1,0
+528,data scientist,IL,3.5,254.0,Insurance,Company - Private,$10+ billion (USD),1,0,0,0
+529,machine learning engineer,NY,3.5,125.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,1
+530,data scientist,MA,4.0,106.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,1,0
+531,other scientist,CA,3.0,73.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,Unknown / Non-Applicable,0,0,0,0
+532,other scientist,MD,3.0,81.0,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,1,0,0
+533,other scientist,DE,4.0,56.5,Health Care,Nonprofit Organization,$100 to $500 million (USD),0,0,0,0
+534,other scientist,NC,3.5,99.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0
+535,analyst,OH,3.5,45.5,Insurance,Company - Private,$500 million to $1 billion (USD),0,0,0,0
+536,analyst,MA,4.0,54.0,Insurance,Company - Public,$5 to $10 billion (USD),0,0,1,0
+537,data engineer,IN,4.5,122.5,Business Services,Company - Private,$25 to $50 million (USD),1,0,1,1
+538,analyst,FL,3.0,37.5,Information Technology,Subsidiary or Business Segment,$100 to $500 million (USD),0,1,1,0
+539,analyst,NY,4.0,53.5,Travel & Tourism,Company - Private,$2 to $5 billion (USD),1,1,1,0
+540,data scientist,IL,4.0,140.0,Finance,Company - Public,$1 to $2 billion (USD),1,1,1,0
+541,data scientist,VA,3.5,77.5,Government,Nonprofit Organization,$1 to $2 billion (USD),0,0,0,0
+542,other scientist,MA,3.5,55.0,"Construction, Repair & Maintenance",Company - Private,Unknown / Non-Applicable,0,1,0,0
+543,other scientist,NC,3.5,117.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0
+544,other scientist,CA,2.5,70.5,Biotech & Pharmaceuticals,Company - Private,$50 to $100 million (USD),0,0,0,0
+545,other scientist,NY,3.0,70.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,0
+546,Data scientist project manager,CA,5.0,61.5,Information Technology,Company - Private,$25 to $50 million (USD),0,1,1,0
+547,other scientist,GA,3.0,80.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,0
+548,data scientist,GA,5.0,79.5,Information Technology,Company - Private,$25 to $50 million (USD),1,1,1,0
+549,data scientist,CA,5.0,168.0,Information Technology,Company - Private,$100 to $500 million (USD),1,1,1,0
+550,data engineer,MA,3.5,90.0,Insurance,Company - Private,$100 to $500 million (USD),0,1,1,0
+551,other scientist,MA,4.0,120.0,-1,Company - Private,Unknown / Non-Applicable,0,1,0,0
+552,analyst,CA,4.0,138.5,Information Technology,Company - Public,Unknown / Non-Applicable,1,0,1,0
+553,data scientist,PA,4.0,111.5,Biotech & Pharmaceuticals,Company - Public,$2 to $5 billion (USD),0,0,0,0
+554,data scientist,MA,4.0,68.5,Insurance,Company - Private,$10+ billion (USD),0,1,0,0
+555,other scientist,MA,4.0,84.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,1
+556,data engineer,TN,4.5,102.5,Information Technology,Company - Public,$100 to $500 million (USD),1,0,1,1
+557,other scientist,PA,3.0,73.5,Education,College / University,Unknown / Non-Applicable,0,1,0,0
+558,other scientist,OH,4.0,93.5,Government,Nonprofit Organization,$50 to $100 million (USD),1,0,0,0
+559,data scientist,PA,3.5,127.5,Business Services,Company - Private,$5 to $10 million (USD),0,1,0,0
+560,analyst,UT,4.5,72.0,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,0,1,0
+561,na,MA,4.0,129.5,Insurance,Company - Private,$10+ billion (USD),1,1,1,1
+562,analyst,UT,3.5,47.0,Manufacturing,Company - Private,$500 million to $1 billion (USD),1,1,1,0
+563,data engineer,AL,4.0,65.0,Consumer Services,Subsidiary or Business Segment,Unknown / Non-Applicable,1,1,1,1
+564,analyst,WI,4.0,60.0,Finance,Company - Public,$1 to $2 billion (USD),0,1,0,1
+565,data scientist,NY,4.0,167.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,0,1
+566,analyst,NY,4.0,65.0,Travel & Tourism,Company - Private,$2 to $5 billion (USD),0,1,1,0
+567,analyst,VA,4.0,94.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,0
+568,analyst,NY,2.0,87.5,Retail,Company - Private,$100 to $500 million (USD),1,1,1,0
+569,data engineer,VA,4.0,97.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,1
+570,data engineer,NC,4.5,112.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,0,1
+571,data modeler,MA,4.0,91.5,Insurance,Company - Private,$10+ billion (USD),0,1,1,1
+572,data modeler,IN,3.5,51.5,Insurance,Company - Private,$10+ billion (USD),1,1,1,0
+573,data scientist,MA,4.0,114.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0
+574,data scientist,NY,4.5,115.0,Business Services,Company - Private,$10 to $25 million (USD),1,0,1,1
+575,Data scientist project manager,PA,3.5,74.0,Business Services,Company - Private,$5 to $10 million (USD),1,0,1,1
+576,other scientist,CA,5.0,51.0,Business Services,Company - Private,$10 to $25 million (USD),0,1,0,0
+577,data engineer,AZ,3.5,100.0,Health Care,Company - Public,Unknown / Non-Applicable,0,0,1,0
+578,data scientist,MA,4.0,121.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0
+579,analyst,CA,4.5,121.5,Information Technology,Company - Private,$100 to $500 million (USD),0,0,1,0
+580,data scientist,MA,3.5,62.5,Finance,Company - Private,$10+ billion (USD),1,1,1,0
+581,other scientist,MA,4.0,117.5,-1,Other Organization,Unknown / Non-Applicable,0,1,0,0
+582,data scientist,FL,4.0,122.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,1
+583,data engineer,VA,4.5,85.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,0,1
+584,data engineer,AZ,3.5,60.5,Information Technology,Company - Private,$50 to $100 million (USD),1,0,1,1
+585,data scientist,CA,4.0,180.0,Finance,Company - Private,$50 to $100 million (USD),1,1,1,0
+586,na,MO,5.0,70.5,Finance,Company - Private,Unknown / Non-Applicable,0,1,1,0
+587,data engineer,VA,3.5,118.5,Aerospace & Defense,Company - Private,$1 to $2 billion (USD),1,0,1,0
+588,data analitics,IL,4.0,66.5,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,0
+589,data scientist,MA,3.5,107.5,Business Services,Company - Private,$100 to $500 million (USD),0,1,1,0
+590,data engineer,TX,5.0,138.5,Business Services,Company - Private,$10 to $25 million (USD),1,0,1,0
+591,other scientist,MD,3.0,81.0,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,0,0,0
+592,data engineer,IL,4.0,58.5,Insurance,Company - Private,$2 to $5 billion (USD),1,1,1,0
+593,data engineer,IL,3.5,107.5,Transportation & Logistics,Company - Public,$2 to $5 billion (USD),0,0,1,0
+594,other scientist,MA,4.0,120.5,Biotech & Pharmaceuticals,Company - Public,$50 to $100 million (USD),0,0,0,0
+595,data scientist,CA,4.0,63.5,Information Technology,Company - Private,$10 to $25 million (USD),1,0,1,0
+596,other scientist,KY,3.5,103.5,Manufacturing,Company - Private,$10+ billion (USD),0,0,0,0
+597,data scientist,CA,4.5,107.0,Information Technology,Company - Public,$1 to $2 billion (USD),1,1,0,0
+598,data engineer,VA,4.0,105.5,Aerospace & Defense,Company - Public,$2 to $5 billion (USD),1,0,1,0
+599,data engineer,CA,3.0,83.0,Insurance,Company - Private,$500 million to $1 billion (USD),0,0,1,0
+600,data engineer,CA,4.0,162.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,1
+601,data scientist,CA,3.5,68.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,1,0,0
+602,data scientist,OH,3.5,110.5,Insurance,Company - Public,$5 to $10 billion (USD),0,1,1,0
+603,data engineer,IA,4.0,115.5,Insurance,Subsidiary or Business Segment,$100 to $500 million (USD),1,1,1,0
+604,other scientist,CA,3.0,87.5,Biotech & Pharmaceuticals,Company - Public,Unknown / Non-Applicable,0,1,0,0
+605,data scientist,WA,4.0,80.5,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0
+606,analyst,IA,5.0,43.0,Finance,Company - Private,$100 to $500 million (USD),0,1,1,0
+607,director,MA,4.5,140.0,Biotech & Pharmaceuticals,Company - Public,Unknown / Non-Applicable,0,1,0,0
+608,director,MA,4.0,172.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,1
+609,other scientist,MA,4.0,120.0,-1,Company - Private,Unknown / Non-Applicable,0,0,0,0
+610,analyst,PA,3.0,66.5,Insurance,Company - Private,$5 to $10 billion (USD),0,1,1,0
+611,other scientist,CA,3.0,100.0,Biotech & Pharmaceuticals,Company - Public,Unknown / Non-Applicable,0,1,0,0
+612,data engineer,CA,5.0,94.5,Business Services,Company - Private,$1 to $5 million (USD),1,0,0,1
+613,data scientist,CA,4.5,221.5,Health Care,Company - Private,Unknown / Non-Applicable,1,1,1,0
+614,data scientist,WA,4.0,119.0,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0
+615,data engineer,IL,3.5,95.5,Business Services,Company - Private,$50 to $100 million (USD),1,0,1,0
+616,data scientist,IL,3.5,194.5,Insurance,Company - Private,$10+ billion (USD),1,0,0,0
+617,other scientist,NE,3.5,51.5,Health Care,Nonprofit Organization,$10+ billion (USD),0,0,0,0
+618,analyst,TN,3.0,27.5,Finance,Company - Public,$2 to $5 billion (USD),0,1,0,0
+619,analyst,NJ,3.5,173.0,Finance,Company - Private,$1 to $2 billion (USD),1,1,1,0
+620,data scientist,TX,4.0,105.5,Education,College / University,Unknown / Non-Applicable,1,0,0,1
+621,other scientist,TX,4.0,71.5,Business Services,Nonprofit Organization,$500 million to $1 billion (USD),1,1,1,1
+622,other scientist,NC,3.5,74.0,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0
+623,analyst,AL,4.0,62.5,Aerospace & Defense,Company - Public,$10+ billion (USD),0,1,0,0
+624,other scientist,NC,4.5,65.5,Business Services,Nonprofit Organization,$500 million to $1 billion (USD),0,0,0,0
+625,data scientist,PA,4.0,85.0,Retail,Company - Public,$5 to $10 billion (USD),1,0,1,0
+626,data scientist,MD,4.0,147.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,1,0,0
+627,data scientist,NJ,4.0,161.5,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1
+628,data engineer,VA,4.0,81.0,Health Care,Nonprofit Organization,$1 to $2 billion (USD),0,1,0,0
+629,analyst,PA,2.5,72.5,Biotech & Pharmaceuticals,Other Organization,$100 to $500 million (USD),0,1,1,0
+630,data engineer,CA,4.0,139.0,Information Technology,Company - Public,$10 to $25 million (USD),1,1,0,1
+631,data engineer,CA,4.0,136.5,Information Technology,Company - Private,$10 to $25 million (USD),0,0,1,0
+632,analyst,NY,3.5,83.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0
+633,other scientist,MA,5.0,121.0,Business Services,Subsidiary or Business Segment,$5 to $10 million (USD),0,1,0,1
+634,data scientist,NY,4.0,74.5,Travel & Tourism,Company - Private,$2 to $5 billion (USD),1,0,0,0
+635,analyst,CA,2.5,85.5,Retail,Company - Private,Unknown / Non-Applicable,0,1,0,0
+636,other scientist,NC,3.5,80.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0
+637,other scientist,MA,5.0,167.5,Business Services,Subsidiary or Business Segment,$5 to $10 million (USD),0,0,0,0
+638,machine learning engineer,PA,3.0,107.5,Education,College / University,Unknown / Non-Applicable,1,0,1,0
+639,analyst,WA,3.5,44.5,Non-Profit,Nonprofit Organization,$25 to $50 million (USD),0,1,1,1
+640,analyst,MD,3.5,107.5,Health Care,Company - Private,$500 million to $1 billion (USD),0,0,1,0
+641,other scientist,MA,4.0,132.5,-1,Company - Private,Unknown / Non-Applicable,0,0,0,0
+642,analyst,PA,4.0,69.5,Health Care,Company - Private,$500 million to $1 billion (USD),0,1,1,0
+643,na,CA,3.5,98.5,Information Technology,Company - Public,$10+ billion (USD),1,0,1,1
+644,other scientist,MD,3.0,80.5,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,1,0,0
+645,other scientist,MA,4.0,76.5,Biotech & Pharmaceuticals,Company - Private,$10 to $25 million (USD),0,1,0,0
+646,other scientist,MD,4.0,99.0,Aerospace & Defense,Company - Public,$10+ billion (USD),1,0,1,0
+647,Data scientist project manager,MA,4.0,96.5,Biotech & Pharmaceuticals,Company - Public,$50 to $100 million (USD),0,1,0,0
+648,data scientist,MA,3.5,53.0,Insurance,Company - Private,$10+ billion (USD),0,0,0,0
+649,data engineer,CA,3.0,103.0,Information Technology,Company - Private,Unknown / Non-Applicable,0,0,0,1
+650,data scientist,CA,4.0,139.5,Finance,Company - Public,$50 to $100 million (USD),0,0,1,0
+651,data scientist,WA,4.0,67.0,"Oil, Gas, Energy & Utilities",Government,$500 million to $1 billion (USD),0,0,0,0
+652,data analitics,CT,3.0,62.5,Information Technology,Company - Public,$10+ billion (USD),0,1,0,0
+653,other scientist,MD,4.0,92.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0
+654,analyst,NY,4.0,66.0,Health Care,Company - Private,$10 to $25 million (USD),0,1,0,0
+655,data engineer,CA,3.5,94.5,Health Care,Company - Private,Unknown / Non-Applicable,1,1,1,1
+656,data scientist,NJ,4.0,114.0,Business Services,Company - Private,Unknown / Non-Applicable,1,1,1,1
+657,data scientist,NY,4.5,75.5,Education,Company - Private,Unknown / Non-Applicable,1,0,1,1
+658,data scientist,MO,3.5,96.0,Education,School / School District,$5 to $10 million (USD),0,1,1,0
+659,machine learning engineer,VA,4.0,87.0,Aerospace & Defense,Company - Public,$100 to $500 million (USD),1,0,0,0
+660,data scientist,MD,4.0,86.0,Information Technology,Company - Private,$25 to $50 million (USD),1,1,0,0
+661,data scientist,CA,4.5,116.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,0,1,0
+662,other scientist,MA,3.5,154.5,Biotech & Pharmaceuticals,Company - Private,$1 to $2 billion (USD),1,1,0,0
+663,analyst,CA,4.0,48.5,"Arts, Entertainment & Recreation",Company - Private,$100 to $500 million (USD),0,1,1,0
+664,machine learning engineer,KS,4.0,87.0,Finance,Company - Public,$500 million to $1 billion (USD),1,1,1,0
+665,data engineer,TX,3.5,80.0,Information Technology,Company - Private,$1 to $2 billion (USD),1,1,1,0
+666,other scientist,TX,4.0,44.5,Health Care,Hospital,$50 to $100 million (USD),0,0,0,1
+667,data scientist,CA,4.0,173.0,Aerospace & Defense,Company - Public,$10+ billion (USD),1,0,0,0
+668,other scientist,IL,2.5,52.5,Manufacturing,Company - Private,$100 to $500 million (USD),0,0,0,0
+669,data engineer,AZ,3.5,68.5,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,1,0,0,0
+670,other scientist,MD,4.0,95.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,0
+671,data scientist,MA,3.5,69.5,Government,Nonprofit Organization,$1 to $2 billion (USD),1,1,1,0
+672,data scientist,OH,4.5,107.0,Mining & Metals,Subsidiary or Business Segment,Unknown / Non-Applicable,1,0,1,1
+673,data scientist,VA,4.0,112.0,Information Technology,Company - Private,$100 to $500 million (USD),1,0,1,0
+674,data scientist,DC,3.5,96.5,Business Services,Company - Private,$10 to $25 million (USD),1,0,0,0
+675,other scientist,CA,2.5,111.5,Biotech & Pharmaceuticals,Company - Public,$25 to $50 million (USD),0,1,0,0
+676,data engineer,MA,4.0,154.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,1,1,1
+677,data scientist,NY,3.5,95.0,Health Care,Company - Private,Unknown / Non-Applicable,1,0,1,1
+678,data scientist,NY,4.0,97.5,Consumer Services,Company - Private,Unknown / Non-Applicable,1,1,1,0
+679,data scientist,IL,4.5,128.5,Business Services,Company - Private,$50 to $100 million (USD),1,1,1,1
+680,machine learning engineer,PA,3.0,124.0,Education,College / University,Unknown / Non-Applicable,0,0,0,0
+681,data scientist,CA,3.5,194.0,Information Technology,Subsidiary or Business Segment,Unknown / Non-Applicable,0,1,0,1
+682,other scientist,CO,4.0,65.0,Health Care,Hospital,$100 to $500 million (USD),0,0,0,0
+683,analyst,UT,4.5,50.0,Non-Profit,Nonprofit Organization,Unknown / Non-Applicable,0,1,1,1
+684,data scientist,NY,3.5,104.5,Business Services,Company - Public,Unknown / Non-Applicable,1,1,1,1
+685,data scientist,AZ,4.5,69.5,Information Technology,Company - Private,$50 to $100 million (USD),1,1,1,0
+686,data scientist,CA,3.0,121.0,Education,Company - Private,Unknown / Non-Applicable,1,0,1,0
+687,data engineer,NC,4.5,85.5,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,0
+688,data engineer,CA,3.5,113.0,Media,Company - Public,$10+ billion (USD),1,1,1,1
+689,data scientist,CA,4.0,103.0,Manufacturing,Subsidiary or Business Segment,$25 to $50 million (USD),1,0,1,1
+690,other scientist,MA,4.0,90.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,1
+691,data scientist,CA,4.5,153.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,0,0
+692,data scientist,VA,3.5,106.5,Government,Nonprofit Organization,$1 to $2 billion (USD),1,1,1,0
+693,data scientist,MI,5.0,130.0,Information Technology,Company - Private,Unknown / Non-Applicable,0,1,0,0
+694,analyst,CA,3.5,123.5,Business Services,Company - Public,$2 to $5 billion (USD),0,1,1,0
+695,data modeler,NY,4.5,86.5,Information Technology,Company - Public,$500 million to $1 billion (USD),0,1,1,1
+696,Data scientist project manager,CA,3.5,64.0,Health Care,Nonprofit Organization,$500 million to $1 billion (USD),0,0,1,0
+697,analyst,NY,4.0,47.0,Information Technology,Company - Private,$10 to $25 million (USD),0,0,1,0
+698,data scientist,CA,4.0,162.0,Information Technology,Company - Public,$5 to $10 billion (USD),1,1,1,0
+699,data scientist,MD,4.0,140.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,1,0,0
+700,data scientist,WA,3.5,89.0,Information Technology,Company - Private,$5 to $10 million (USD),0,0,0,0
+701,data engineer,TN,3.0,98.0,Retail,Company - Private,$10+ billion (USD),1,0,1,0
+702,data scientist,NY,4.0,137.0,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,0,0
+703,data engineer,CO,4.0,99.0,Insurance,Nonprofit Organization,$500 million to $1 billion (USD),1,0,1,1
+704,other scientist,WI,3.5,54.0,Manufacturing,Company - Private,Unknown / Non-Applicable,0,0,0,0
+705,data engineer,TN,3.5,109.0,Health Care,Company - Private,Unknown / Non-Applicable,0,1,0,1
+706,data engineer,MD,3.5,109.0,Information Technology,Company - Private,$25 to $50 million (USD),0,0,0,1
+707,data scientist,MA,4.5,139.5,Information Technology,Company - Private,$1 to $2 billion (USD),1,0,1,0
+708,data scientist,IL,3.5,254.0,Insurance,Company - Private,$10+ billion (USD),1,0,0,0
+709,machine learning engineer,NY,3.5,125.0,Information Technology,Company - Private,Unknown / Non-Applicable,1,1,1,1
+710,data scientist,MA,4.0,106.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),1,0,1,0
+711,other scientist,DE,4.0,56.5,Health Care,Nonprofit Organization,$100 to $500 million (USD),0,0,0,0
+712,other scientist,CA,3.0,73.0,Biotech & Pharmaceuticals,Subsidiary or Business Segment,Unknown / Non-Applicable,0,0,0,0
+713,other scientist,MD,3.0,81.0,Biotech & Pharmaceuticals,Company - Private,$25 to $50 million (USD),0,1,0,0
+714,data scientist,PA,3.5,128.5,Business Services,Company - Private,$5 to $10 million (USD),1,0,1,1
+715,other scientist,NC,3.5,99.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0
+716,other scientist,CA,4.0,92.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,1
+717,analyst,OH,3.5,45.5,Insurance,Company - Private,$500 million to $1 billion (USD),0,0,0,0
+718,data engineer,IN,4.5,122.5,Business Services,Company - Private,$25 to $50 million (USD),1,0,1,1
+719,analyst,FL,3.0,37.5,Information Technology,Subsidiary or Business Segment,$100 to $500 million (USD),0,1,1,0
+720,analyst,MA,4.0,54.0,Insurance,Company - Public,$5 to $10 billion (USD),0,0,1,0
+721,analyst,NY,4.0,53.5,Travel & Tourism,Company - Private,$2 to $5 billion (USD),1,1,1,0
+722,data scientist,IL,4.0,140.0,Finance,Company - Public,$1 to $2 billion (USD),1,1,1,0
+723,data scientist,VA,3.5,77.5,Government,Nonprofit Organization,$1 to $2 billion (USD),0,0,0,0
+724,other scientist,MA,3.5,55.0,"Construction, Repair & Maintenance",Company - Private,Unknown / Non-Applicable,0,1,0,0
+725,other scientist,NC,3.5,117.5,Manufacturing,Company - Private,$10+ billion (USD),0,1,0,0
+726,other scientist,CA,2.5,70.5,Biotech & Pharmaceuticals,Company - Private,$50 to $100 million (USD),0,0,0,0
+727,Data scientist project manager,CA,5.0,61.5,Information Technology,Company - Private,$25 to $50 million (USD),0,1,1,0
+728,other scientist,GA,3.0,80.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,0
+729,other scientist,NY,3.0,70.0,Biotech & Pharmaceuticals,Company - Private,Unknown / Non-Applicable,0,1,0,0
+730,other scientist,MA,4.0,120.0,-1,Company - Private,Unknown / Non-Applicable,0,1,0,0
+731,data engineer,MA,3.5,90.0,Insurance,Company - Private,$100 to $500 million (USD),0,1,1,0
+732,machine learning engineer,CA,4.5,111.0,Education,Company - Private,Unknown / Non-Applicable,1,1,0,1
+733,analyst,CA,4.0,138.5,Information Technology,Company - Public,Unknown / Non-Applicable,1,0,1,0
+734,data scientist,MA,4.0,68.5,Insurance,Company - Private,$10+ billion (USD),0,1,0,0
+735,data engineer,CA,4.0,87.5,Information Technology,Company - Private,$100 to $500 million (USD),1,1,1,1
+736,data scientist,PA,4.0,111.5,Biotech & Pharmaceuticals,Company - Public,$2 to $5 billion (USD),0,0,0,0
+737,other scientist,MA,4.0,84.5,Biotech & Pharmaceuticals,Company - Public,$10+ billion (USD),0,0,0,1
+738,data engineer,TN,4.5,102.5,Information Technology,Company - Public,$100 to $500 million (USD),1,0,1,1
+739,other scientist,PA,3.0,73.5,Education,College / University,Unknown / Non-Applicable,0,1,0,0
+740,data scientist,PA,3.5,127.5,Business Services,Company - Private,$5 to $10 million (USD),0,1,0,0
+741,other scientist,OH,4.0,93.5,Government,Nonprofit Organization,$50 to $100 million (USD),1,0,0,0

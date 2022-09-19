@@ -15,16 +15,16 @@ def load_models():
 
 app = Flask(__name__)
 @app.route('/predict', methods=['GET'])
+
 def predict():
     # stub input features
-    #request_json = request.get_json()
-    #x = (request_json['input'])
-    x = np.array(data_in).reshape(1,-1)
-    #print(x)
-    #x_in = np.array(x).reshape(1,-1)
+    request_json = request.get_json()
+    x = (request_json['input'])
+    # print(x)
+    x_in = np.array(x).reshape(1,-1)
     # load model
     model = load_models()
-    prediction = model.predict(x)[0]
+    prediction = model.predict(x_in)[0]
     response = json.dumps({'response': prediction})
     return response, 200
 
