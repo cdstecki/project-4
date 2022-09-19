@@ -39,7 +39,7 @@
         </li>
         <li class="nav-item" id="navtext">
           <a class="nav-link" id="sources"
-            href="https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies"><strong><b>Sources</b></strong></a>
+            href="https://www.kaggle.com/datasets/nikhilbhathi/data-scientist-salary-us-glassdoor?resource=download"><strong><b>Sources</b></strong></a>
         </li>
       </ul>
     </div>
@@ -47,78 +47,118 @@
   <div class="content">
     <div class="col-sm-12 col-md-12">
       <h2 class="text-left1">
-        <center><br>Salary Potential</center>
+        <center><br>
+          <h1>Salary Potential</h1>
+        </center>
       </h2>
       <hr class="my-4">
-      <table>
-        <tr>
-          <li class="nav-item dropdown">
-            <a class="nav-link active dropdown-toggle" ref="#" id="navbarDropdown" data-bs-toggle="dropdown"
-              aria-haspopup="menu" aria-expanded="false"><strong><b>Job Title</b></strong></a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" id="salaries" href="#"><strong><b>Search</b></strong></a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link active dropdown-toggle" ref="#" id="navbarDropdown" data-bs-toggle="dropdown"
-              aria-haspopup="menu" aria-expanded="false"><strong><b>Location</b></strong></a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" id="salaries" href="#"><strong><b>Search</b></strong></a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link active dropdown-toggle" ref="#" id="navbarDropdown" data-bs-toggle="dropdown"
-              aria-haspopup="menu" aria-expanded="false"><strong><b>Skills</b></strong></a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <h4>&nbsp;Please select<br>&nbsp;&nbsp;&nbsp;your skills.</h4><br>
-              <formg name="myWebForm" action="myServerSideScript.php" method="post">
-                &nbsp;&nbsp;<input type="checkbox"/> Python<br />
-                &nbsp;&nbsp;<input type="checkbox"/> Spark<br />
-                &nbsp;&nbsp;<input type="checkbox"/> AWS<br />
-                &nbsp;&nbsp;<input type="checkbox"/> Excel<br />
-                &nbsp;&nbsp;<input type="checkbox"/> SQL<br />
-                &nbsp;&nbsp;<input type="checkbox"/> SAS<br />
-                &nbsp;&nbsp;<input type="checkbox"/> Keras<br />
-                &nbsp;&nbsp;<input type="checkbox"/> Pytorch<br />
-                &nbsp;&nbsp;<input type="checkbox"/> Scikit<br />
-                &nbsp;&nbsp;<input type="checkbox"/> Tensor<br />
-                &nbsp;&nbsp;<input type="checkbox"/> Hadoop<br />
-                &nbsp;&nbsp;<input type="checkbox"/> Tableau<br />
-                &nbsp;&nbsp;<input type="checkbox"/> PowerBi<br />
-                &nbsp;&nbsp;<input type="checkbox"/> Flink<br />
-                &nbsp;&nbsp;<input type="checkbox"/> MongoDB<br />
-                &nbsp;&nbsp;<input type="checkbox"/> Google Analytics<br /><br>
-                <center><input type="submit" value="SUBMIT" /></center>
-                </form>
+      <div class="row">
+        <formg name="salariesForm" method="post"></formg>
 
 
+        <div class="col-5"></div>
+        <div class="col-3">
+          <h4><strong><b>
+                <center>Please select<br>your desired 'Job Title'</center></strong></b></h4><br>
+          <input type="radio" name="salaries" />&nbsp; <strong>Data Scientist</strong></a><br><br>
+          <input type="radio" name="salaries" />&nbsp; <strong>Data Engineer</strong></a><br><br>
+          <input type="radio" name="salaries" />&nbsp; <strong>Data Analytics</strong></a><br><br>
+          <input type="radio" name="salaries" />&nbsp; <strong>Data Modeler</strong></a><br><br>
+          <input type="radio" name="salaries" />&nbsp; <strong>Data Scientist Project Manager</strong></a><br><br>
+          <input type="radio" name="salaries" />&nbsp; <strong>Machine Learning Engineer</strong></a><br><br>
+          <input type="radio" name="salaries" />&nbsp; <strong>Director</strong></a><br><br>
+          <input type="radio" name="salaries" />&nbsp; <strong>Other Scientist</strong></a><br><br></tr><br><br>
+
+          <hr>
+
+          <h4><strong><b>
+                <center>Please select<br>your desired 'State'</center></strong></b></h4><br>
+          <center><select name="selectionField"></center>
+          <option value="AL">Alabama -- AL</option>
+          <option value="AK">Alaska -- AK</option>
+          <option value="AZ">Arizona -- AZ</option>
+          <option value="AR">Arkansas -- AR</option>
+          <option value="CA">California -- CA</option>
+          <option value="CO">Colorado -- CO</option>
+          <option value="CT">Connecticut -- CT</option>
+          <option value="DE">Delaware -- DE</option>
+          <option value="DC">District of Columbia -- DC</option>
+          <option value="FL">Florida -- FL</option>
+          <option value="GA">Georgia -- GA</option>
+          <option value="HI">Hawaii -- HI</option>
+          <option value="ID">Idaho -- ID</option>
+          <option value="IL">Illinois -- IL</option>
+          <option value="IN">Indiana -- IN</option>
+          <option value="IA">Iowa -- IA</option>
+          <option value="KS">Kansas -- KS</option>
+          <option value="KY">Kentucky-- KY</option>
+          <option value="LA">Louisiana -- LA</option>
+          <option value="ME">Maine -- ME</option>
+          <option value="MD">Maryland -- MD</option>
+          <option value="MA">Massachusetts -- MA</option>
+          <option value="MI">Michigan-- MI</option>
+          <option value="MN">Minnesota -- MN</option>
+          <option value="MS">Mississippi -- MS</option>
+          <option value="MO">Missouri -- MO</option>
+          <option value="MT">Montana -- MT</option>
+          <option value="NE">Nebraska -- NE</option>
+          <option value="NH">New Hampshire -- NH</option>
+          <option value="NJ">New Jersey -- NJ</option>
+          <option value="NM">New Mexico -- NM</option>
+          <option value="NY">New York -- NY</option>
+          <option value="NC">North Carolina -- NC</option>
+          <option value="ND">North Dakota -- ND</option>
+          <option value="OH">Ohio -- OH</option>
+          <option value="OK">Oklahoma -- OK</option>
+          <option value="OR">Oregon -- OR</option>
+          <option value="PA">Pennsylvania -- PA</option>
+          <option value="RI">Rhode Island -- RI</option>
+          <option value="SC">South Carolina -- SC</option>
+          <option value="SD">South Dakota -- SD</option>
+          <option value="TN">Tennessee -- TN</option>
+          <option value="TX">Texas -- TX</option>
+          <option value="UT">Utah -- UT</option>
+          <option value="VT">Vermont -- VT</option>
+          <option value="VA">Virginia -- VA</option>
+          <option value="WA">Washington -- WA</option>
+          <option value="WV">West Virginia -- WV</option>
+          <option value="WI">Wisconsin -- WI</option>
+          <option value="WY">Wyoming -- WY</option>
+
+          </select><br><br><br><br>
+
+          <hr>
 
 
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link active dropdown-toggle" ref="#" id="navbarDropdown" data-bs-toggle="dropdown"
-              aria-haspopup="menu" aria-expanded="false"><strong><b>Company</b></strong></a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" id="salaries" href="#"><strong><b>Search</b></strong></a>
-          </li>
+          <h4><strong><b>
+                <center>Please select<br>&nbsp;&nbsp;&nbsp;your 'Skills'</center></strong></b></h4><br>
+
+          <ul class="checkbox-grid">
+
+            <li><input type="checkbox" name="checkbox1" /> Python
+            <li><input type="checkbox" name="checkbox1" /> AWS
+            <li><input type="checkbox" name="checkbox1" /> Excel
+            <li><input type="checkbox" name="checkbox1" /> SQL
+              <br>
+          </ul><br><br><br><br><br><br><br> <center><input type="submit" value="SUBMIT" /></center>
+          <br><br>
+
+        </div>
+
+      </div>
+      </form>
+
+      <div class="col-4">
+
+      </div>
+
     </div>
-    <br><br>
 
 
 
-    <tr>
-      </table>
+  </div><br><br>
   </div>
   </div>
-
-
-
-
-
-
-
-
-
-
-
   </div>
   </div>
   </div>

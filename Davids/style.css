@@ -35,7 +35,9 @@ body {
 
 }
 
+.dropdown-menu.show {
 
+}
 
 
 ::after {
@@ -48,6 +50,11 @@ body {
 
 #salaries:hover {
   background:purple;
+  margin-left: 0.68px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 .nav-link:hover {
@@ -85,6 +92,10 @@ b {
   border-top-right-radius: 15px;
 }
 
+.nav-item.dropdown::marker {
+
+color: whitesmoke;
+}
 
 
 #data.nav-link {
@@ -330,4 +341,11 @@ img.center {
 
 .content {
   background-color: whitesmoke;
+}
+
+.checkbox-grid li {
+  display: block;
+  float: left;
+  width: 25%;
+
 }
